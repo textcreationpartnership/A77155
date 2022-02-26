@@ -1,0 +1,884 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zeale for Gods house quickned: or, A sermon preached before the assembly of Lords, Commons, and Divines, at their solemn fast Iuly 7. 1643. In the Abbey Church at Westminster. Expressing the eminencie of zeale requisite in church reformers: / by Oliver Bowles, Pator of Sutton in Bedfordshire. Published by order of both Houses of Parliament.</title>
+            <author>Bowles, Oliver, ca. 1577-1646?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 108 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77155</idno>
+            <idno type="STC">Wing B3884</idno>
+            <idno type="STC">Thomason E63_6</idno>
+            <idno type="STC">ESTC R9592</idno>
+            <idno type="EEBO-CITATION">99873579</idno>
+            <idno type="PROQUEST">99873579</idno>
+            <idno type="VID">126056</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77155)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 126056)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 11:E63[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Zeale for Gods house quickned: or, A sermon preached before the assembly of Lords, Commons, and Divines, at their solemn fast Iuly 7. 1643. In the Abbey Church at Westminster. Expressing the eminencie of zeale requisite in church reformers: / by Oliver Bowles, Pator of Sutton in Bedfordshire. Published by order of both Houses of Parliament.</title>
+                  <author>Bowles, Oliver, ca. 1577-1646?</author>
+               </titleStmt>
+               <extent>[8], 48 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Bishop for Samuel Gellibrand, at the Brazen Serpent in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: A sermon before the assembly of Lords, Commons, and Divines, upon their fast Iuly 7. 1643.</note>
+                  <note>The imprint is in two settings: line 2 of imprint ends (1) "Brazen", or (2) "at the".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  John II, 17 --  Sermons --  Early works to 1800.</term>
+               <term>Fast-day sermons --  17th century.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:126056:1"/>
+            <pb facs="tcp:126056:1" rendition="simple:additions"/>
+            <p>ZEALE FOR GODS HOUSE <hi>Q<g ref="char:V">Ʋ</g>ICKNED:</hi> OR, A SERMON Preached before the Aſſembly of <hi>Lords, Commons,</hi> and <hi>Divines,</hi> at their ſolemn Faſt <hi>Iuly</hi> 7. 1643. In the Abbey Church at <hi>Weſtminſter.</hi>
+            </p>
+            <p>
+               <hi>EXPRESSING</hi> The Eminencie of Zeale requiſite in Church Reformers: BY OLIVER BOWLES, Paſtor of <hi>Sutton</hi> in <hi>Bedfordſhire.</hi>
+            </p>
+            <q>It is good to be zealouſly affected alwayes in a good thing,
+<bibl>
+                  <hi>Gal. 4.18.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>Publiſhed by Order of both Houſes of Parliament.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Richard Biſhop</hi> for <hi>Samuel Gellibrand,</hi> at the Brazen Serpent in Pauls Church-yard, 1643.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:126056:2"/>
+            <head>Die Iovis 27. Iulij 1643.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>T is this day Ordered by the Lords in Parlia<g ref="char:EOLhyphen"/>ment, That Mr.</hi> Bowles <hi>hath hereby thanks given him, for the great paines he took in the Sermon he made at the Faſt for the Aſſembly of Divines in the Abbey Church,</hi> Weſtminſter, <hi>on Friday the ſe<g ref="char:EOLhyphen"/>venth of this inſtant</hi> Iuly: <hi>And is hereby deſired to cauſe his ſaid Sermon to be forthwith Printed and publiſhed.</hi>
+            </p>
+            <closer>
+               <signed>Io. Brown Cler. Parliamentor.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:126056:2"/>
+            <head>To the Right Honourable the Houſe of LORDS: AND The Honourable Houſe of COMMONS, Aſſem<g ref="char:EOLhyphen"/>bled in PARLIAMENT: AND To the Learned and Religious DIVINES called by them, and now aſſembled to conſult about matters of RELIGION.</head>
+            <opener>
+               <salute>Right honourable and moſt worthy,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">O</seg>Vt of your vigilant care for the common good you have found out a way amidſt your many diſtractions to convene an <hi>Aſſembly of grave and learned Di<g ref="char:EOLhyphen"/>vines,</hi> with whom you might adviſe concerning the ſettling of Doctrine, Worſhip, and Church Government.</p>
+            <p>You ſaw cauſe which might move you ſo to doe in reſpect; firſt, of thoſe licentious ſpirits, who took occa<g ref="char:EOLhyphen"/>ſion, as to vent their own fancies, ſo to attempt any thing in matter of Doctrine and Worſhip; ſecondly, in that for want of an eſtabliſhed Church-government, we were and ſtill are in danger to fall from a Tyranny to an Anarchy; thirdly, In that evill minded men, ſeeing no effectuall
+<pb facs="tcp:126056:3"/>meanes provided to ſuppreſſe ſuch variety of Sects as did ſtart up, were ready to cenſure you, as the fautors of ſuch opinions. What you have done, hath been done with much prudence in that you have given way for the ad<g ref="char:EOLhyphen"/>mittance of Divines of different Iudgements to be cho<g ref="char:EOLhyphen"/>ſen, to whom a liberty is not denied to plead every one for his own party: And not only ſo, but you have fur<g ref="char:EOLhyphen"/>ther embodied divers of your worthy Ones of both Houſes, as Members of our Aſſembly: by which priviledge, we have many and ſingular advantages. When this Aſſembly, for the greater part, was by your ſummons gathered toge<g ref="char:EOLhyphen"/>ther, you were pleaſed, out of a due conſideration of the weighty affaires to be tranſacted, to appoint a ſolemne Faſt to be kept (chiefly) by the Members of the Aſſembly: And when you had ſo done, your pleaſure was to lay your command upon my ſelfe, though the unworthieſt of many, to bee employed in the ſervice of that day. Surely, it was not but that you had your choyce of many other moſt able and worthy Divines, only it was your pleaſure, <hi>that dayes and multitudes of years ſhould ſpeak.</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>b.</note>
+            </p>
+            <p>The Grace I choſe as moſt meet to treat of, was that of <hi>Zeale,</hi> as converſant about <hi>Gods Houſe;</hi> firſt, for that it doth directly oppoſe <hi>Lukewarmneſſe,</hi> the moſt dange<g ref="char:EOLhyphen"/>rous and yet the Epidemicall diſeaſe of our time; ſecondly, for that no one grace doth more promote the work of Reformation, (as will appeare in the ſubſequent diſcourſe;) thirdly, for that among all other ornaments, there is none that doth more beautifie a Reformer in the eyes of God and man.
+<note place="margin">Prov.</note> There are many creatures, ſaid the wiſe man, that are comely in there going; but none ſo comely as a <hi>Zealous Reformer.</hi> Accordingly then (you Parliamentary
+<pb facs="tcp:126056:3"/>Worthies) goe on and proſper, ceaſe not to carry on your Work, which is Gods work, with Zeale and Courage. It is Perſeverance alone that will both crowne you, and perfect your endeavours. What encouragement have you had, in that the Lord, amidſt your greateſt dangers, hath beene mightily ſeene in the protection of your perſons! No wea<g ref="char:EOLhyphen"/>pons of warre that have beene formed against you, have proſpered; the tongues of men that have riſen up in judgement against you, hath he condemned. Hath not the ſame God aſsisted you to doe many glorious works, whereby his name hath beene honoured, his people unſpeakably benefitted? How hath the Lord kept you together untill this day! notwithſtanding the endeavours of all the De<g ref="char:EOLhyphen"/>vills in hell, and wicked men on earth, to ſcatter you, to divide you! What a foundation hath the Lord laid of your continuance together till your work be done! Surely, it is for that hee hath yet ſome great things for you to doe. If you (which God forbid) ſhall faint, and out of by reſpects withdraw your ſelves from the ſervice, bee ſure God without you will accompliſh his work, but tremble to think what will become of you and yours. How would it bee a thing much to be bewailed that you (Noble and brave ſpirited Patriots; who have hitherto borne the heat of the day, the brunt of the buſineſſe, ſo farre de<g ref="char:EOLhyphen"/>nied your ſelves, as to runne the hazard of all that you are, have, or might expect) ſhould now by failing in your laſt act, looſe your crown, forfeit your reward from God and man!</p>
+            <p>And now for you (my Reverend and much Ho<g ref="char:EOLhyphen"/>noured Brethren in the common work of the Miniſtry,)
+<pb facs="tcp:126056:4"/>Who can but bleſſe the Lord, for that degree of his ſpi<g ref="char:EOLhyphen"/>rit, (no doubt, it is the effect, as of your own prayers in the day of your ſolemn humiliation, ſo of many of the prayers of his people) which hee hath ſhowred down upon you! Not only do your learned debates, your exact and judicious Scripture-diſcuſsions, your Scholaſticall diſputes, the diſ<g ref="char:EOLhyphen"/>covery many of you have made of your exact knowledge in Antiquity, ſhew that God is among you, as he that hath fitted you for the work: but further your ſweet ami<g ref="char:EOLhyphen"/>cable converſe, your following of the truth in love, your differences in judgement carried on without alienation of affection, doe not they all ſay that God is with you? God forbid, that either the Devill, or wicked men, ſhould break aſunder that ſweet bond of Amity, wherewith God hath lincked you in one. Bee incouraged then (dearely beloved in the Lord) from one whom God was pleaſed, though the unworthieſt among you, yet to make his mouth to you, to goe on as carried along with a Spirit of indefatigable zeale in the purſuance of the work you are called unto. Behold it is ſoule-work, and that of neereſt concernment, that God hath put into your hands to bee tranſacted. Is not your work a Counter-work to that great and long plotted deſigne, whereby Popery ſhould have been re-advanced, Gods ſaving truth been ſuppreſsed, his worſhip ſubstantially corrupted, and ut<g ref="char:EOLhyphen"/>terly deſtroyed? Is it not a work of the largeſt extent, as that which concernes all other Reformed Churches, whoſe happineſſe or miſery will bee involved in ours? Yea, ages to come will either bleſſe or curſe you, as you ſhall follow or neglect the opportunity.</p>
+            <pb facs="tcp:126056:4"/>
+            <p>And now for my ſelf, be pleaſed to take notice that my ſtrength and voice failing me by reaſon of my weakneſſe, I have made bold to make a ſupply of that which at the time of the delivery I could not inlarge: Further, (this being a fixed rule to me,
+<note place="margin">Inter concionan<g ref="char:EOLhyphen"/>dam emineat ver<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>un Dei.</note> That <hi>Gods Word ſhould in preaching have the pre<g ref="char:EOLhyphen"/>eminence,)</hi> wonder not, that I alledge Authors, in ſuch caſes wherein the al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>egation of them does not prejudice Scripture: As firſt, when an Hiſtoricall truth is to be made good; for though the Scriptures do only determine, <hi>Quid verum, quid falſum,</hi> What is true and what falſe; yet for the infor<g ref="char:EOLhyphen"/>mation of our ſelves, <hi>Quid novum, quid antiquum,</hi> we muſt have recourſe to the writings of men: Secondly, if God himſelfe, when hee would ſhame men for their evils, ſends them to learne from the creatures,
+<note place="margin">2 <hi>Ierem.</hi> 10.6. <hi>Prov.</hi> 6. 1 <hi>Cor.</hi> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.14.</note> why may not wee ſend men living in the dayes of light to learn of darker times? Thirdly, when being to reprove the evils of the time, for removing of prejudice, wee deliver our reproofes rather in the words of Antiquity than in our own. <hi>Facilè patimur reprehenſores qui remotiori feculo vixêre.</hi> So the Papiſts did embrace many things in the writings of the fathers as Catholike, which they con<g ref="char:EOLhyphen"/>demned in <hi>Luther</hi> as Hereticall.</p>
+            <p>And now what remaines but that wee all humbly pray the God of all truth and peace, who alone is able to facilitate all difficulties, to direct and guide you, Ho<g ref="char:EOLhyphen"/>nourable Senatours, to poure upon you that ſpirit of wiſe<g ref="char:EOLhyphen"/>dome and courage, that you may goe with a ſettled reſolu<g ref="char:EOLhyphen"/>tion, never to give over, till you have eſtabliſhed truth and peace in our borders; and the ſame God magnifie his power in our weakneſſe, and multiply the gifts of his
+<pb facs="tcp:126056:5"/>Spirit upon us, whom you have been pleaſed to call toge<g ref="char:EOLhyphen"/>ther, to adviſe with in the great affaires of the Church, that we may ſo diſcharge our duties, that God may have glory, and his people the good that they expect and pray for, and your and all our enemies may have their faces covered with ſhame,</p>
+            <closer>
+               <signed>So prayes Your ſervant in the Lord Oliver Bowles.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:126056:5"/>
+            <head>A SERMON <hi>Preached before</hi> The Aſsembly of LORDS, COMMONS, AND DIVINES. Vpon their Faſt, <hi>Iuly</hi> 7. 1643.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>JOHN 2.17.</hi>
+                  </bibl>
+                  <p>And his Diſciples remembred that it was written, The zeal of thy houſe hath eaten me up.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He Prophet <hi>Malachi</hi> prophecying con<g ref="char:EOLhyphen"/>cerning the Lord Chriſt, that he ſhould in due time come to viſit his Church, ſets him out as a Refiner, as a Purifier of ſilver, tells us that he ſhould purifie in ſpeciall the Sonnes of <hi>Levi,</hi> purge them as gold and ſilver,
+<note place="margin">
+                  <hi>Malach.</hi> 3.3</note> that
+<pb n="2" facs="tcp:126056:6"/>they might offer unto the Lord an offering in righte<g ref="char:EOLhyphen"/>ouſneſſe. And as an accompliſhment of this prophecy, the ſame Lord Chriſt gives a <hi>Specimen,</hi> in the ſtory im<g ref="char:EOLhyphen"/>mediately preceding my Text, by that heroicall fact of his in whipping the buyers and ſellers out of the Temple (an evill which the Prieſts for their gaine had ſomented.) I call it an heroicall fact, for that it was done by a ſpeciall ſpirit, in its kinde not imitable by us. The which act of the Lord Jeſus being carried on with an eminent and remarkable zeale and magnanimity, gave the Diſciples an occaſion of calling this to minde, <hi>The zeale of thy houſe hath eaten me up.</hi> Of which his zeale we have a remarkable diſcovery in theſe particulars.</p>
+            <p n="1">1. In the weakneſſe of the meanes whereby he did both attempt and effect the work; in that the perſons but few in compariſon, and thoſe deſpicable in the eyes of the world, Chriſt and his Diſciples, not armed with any weapons that might carry dread and terrour with them, at moſt but with a whip made of a few ſmall cords, which probably were ſcattered by the Drovers which came thither to ſell their cattell; and to ſome of them with his voice only,
+<note place="margin">Verſe 16.</note> 
+               <hi>he ſaid to the money chan<g ref="char:EOLhyphen"/>gers, Take theſe things hence,</hi> and it was done.</p>
+            <p n="2">2. In the ſtrength that the oppoſite power did hold out, which makes the encounter ſo much the more dangerous:
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m.</note> As firſt, a garriſon of Souldiers in <hi>Arce Antonia</hi> ready at hand to appeaſe (as it is probable) oc<g ref="char:EOLhyphen"/>caſionall Tumults. Secondly, the temper of the mens ſpirits with whom the buſineſſe was, they were men ſet upon gaine, the worlds god. Thirdly, the great con<g ref="char:EOLhyphen"/>fluence of the people, it being the moſt ſolemne Mart of the Paſſeover. Behold then the greatneſſe of Chriſts
+<pb n="3" facs="tcp:126056:6"/>zeale, when neither the weakneſſe of the meanes on the one ſide to effect it, nor the greatneſſe of the power on the other ſide to hinder it, did at all diſmay him, or cauſe him to deſiſt from this attempt of reforming that ſo apparent an abuſe of the Temple, the houſe of God. Learne we hence, that</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſerv. </seg>
+               </label> It matters not how weak the meanes of Church-re<g ref="char:EOLhyphen"/>formation is, not how ſtrong the oppoſite power is, if we can but draw Chriſt into the buſineſſe,
+<note place="margin">
+                  <hi>Heb.</hi> 5.2. <hi>Eſay</hi> 30.21 <hi>Iohn</hi> 16.13. <hi>Ier.</hi> 15.20. <hi>Eſa.</hi> 26.12.</note> if we can procure him to fit as Preſident in the Aſſembly: If he be there, he will heale our ignorances, hee will cleare up all our doubts, he will guide us by the ſpirit of truth, he will be as a wall of Braſſe againſt all our adverſaries, he will work all our works for us.</p>
+            <p>I do ingenuouſly confeſſe, that when we do conſider and view the difficulty of the work of Church reforma<g ref="char:EOLhyphen"/>tion, and our weakneſſe, who are ſummoned to be ad<g ref="char:EOLhyphen"/>viſers in the work, it may amaze us: but when we look upon the Lord Almighty, the great Jehovah, the Lion of the Tribe of Judah, to whom nothing is too hard, who hath broken through gates of Iron, and Barres of Braſſe, which we could never have dreamed that they had been perviable, this againe may raiſe up our ſpi<g ref="char:EOLhyphen"/>rits, and give us hope, that if we ſeek the Lord in his way, he will certainly be found of us.
+<note place="margin">
+                  <hi>Zach.</hi> 4.6.</note> It is all one to him, whether by an Army and by power, or by quicken<g ref="char:EOLhyphen"/>ing the ſpirits of his, raiſing them above themſelves:
+<note place="margin">
+                  <hi>Verſe</hi> 10.</note> whether by <hi>a day of ſmall things,</hi> or by doing <hi>terrible things that wee looked not for,</hi>
+               <note place="margin">
+                  <hi>Iſai</hi> 64.3.</note> hee bring about his Churches cauſe.
+<note place="margin">
+                  <hi>Zach.</hi> 4.7.</note> It is nothing to him to make Moun<g ref="char:EOLhyphen"/>taines plaine: <hi>Who art thou O great Mountaine?</hi> The Lord by the Prophet ſpeaks in a holy ſcorne of all the
+<pb n="4" facs="tcp:126056:7"/>enemies the Jewes had in rebuilding the Temple and City. Wee accordingly, by a grant from the Right Honourable the two Houſes of Parliament, with ſo many of them as have beene pleaſed to embody them<g ref="char:EOLhyphen"/>ſelves with us, are aſſembled this day to afflict our ſoules in Faſting and Prayer before the Lord, that we may ſeek of him a right way in theſe great and impor<g ref="char:EOLhyphen"/>tant affaires to be treated on, that he would give us ſuch a frame of ſpirit, ſuch an aſſiſtance from on high, ſuch a cleare light, as may raiſe us above our ſelves, fit us for that work whereunto we have no ſufficiency as from our ſelves.
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ya</hi> 8.21.</note> Thus did <hi>Ezra</hi> and the Jewes out of a con<g ref="char:EOLhyphen"/>ſcience of their owne inability to help themſelves in their paſſage from <hi>Babylon</hi> to <hi>Ieruſalem:</hi> So we being now upon a further progreſſe, not from <hi>Babylon</hi> (as ſome have unjuſtly ſlandered us) but from the remnants of <hi>Babylon</hi> to the new <hi>Ieruſalem;</hi> our work is (the Lord aſſiſting) to humble our ſoules before him in a more then ordinary way. Oh that the Lord would put us into ſuch a poſture of abaſement as might make both our perſons and ſervices acceptable before him, ſo ſhould we not doubt but the Lord Chriſt would be in the middeſt among us.</p>
+            <p>The words read unto you are for the latter part taken out of the ſixty ninth Pſalme, uttered by <hi>David</hi> as a type of Chriſt, as appears by this application of them. Conſider in the verſe, firſt, the Scripture alledged: ſe<g ref="char:EOLhyphen"/>condly, the meanes whereby it came to be alledged. For the latter, it was an act of a ſanctified memory in the Diſciples calling to minde what was written, whereun<g ref="char:EOLhyphen"/>to the fact done did ſerve as a remembra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cer. Obſerve,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſerv. </seg>
+               </label> That conſcionable reading of holy Scriptures ſhall
+<pb n="5" facs="tcp:126056:7"/>be attended with ſeaſonable remembring: That is con<g ref="char:EOLhyphen"/>ſcionable reading, when we take up reading the Scrip<g ref="char:EOLhyphen"/>tures in the ſeverall ſeaſons which the Lord commands as an act of obedience unto him, this ſhall have ſea<g ref="char:EOLhyphen"/>ſonable remembring; for ſo is the promiſe of Chriſt,
+<note place="margin">
+                  <hi>Iohn</hi> 14.26</note> 
+               <hi>The Comforter ſhall bring all things to your remembrance.</hi>
+            </p>
+            <p>How induſtrious then ſhould we all be in frequent ſearch of Scriptures? Are not they the Paradiſe of God, wherein growes the Tree of Life,
+<note place="margin">
+                  <hi>Ambr. Ep.</hi> 42.</note> and the leaves are good to heale the Nations? Are not Scriptures as that Poole whereunto God hath promiſed a vertuall power, wherein we may waſh and be cleane? Scriptures are that golden Mine wherein we may dig riches that may make us rich to God, that enrich us to life eter<g ref="char:EOLhyphen"/>nall.
+<note place="margin">
+                  <hi>Luther in Gen.</hi> 19.</note> So zealous was <hi>Luther</hi> to have the Scriptures read, that he profeſſed, that if he thought that the read<g ref="char:EOLhyphen"/>ing of his Books would hinder the reading of the Scriptures, he would burne them all before hee died. But thus much of theſe things briefly; the Scripture it ſelfe alledged being that which I intend principally (by Gods help) to inſiſt upon. And in this Scripture alledged in the Text, three particulars offer themſelves.</p>
+            <p n="1">1. The grace, <hi>Zeale.</hi>
+            </p>
+            <p n="2">2. The Object whereabout it was converſant, <hi>Gods Houſe.</hi>
+            </p>
+            <p n="3">3. The Degree wherein it ſeized upon <hi>David</hi> and Chriſt, they were <hi>eaten up with it.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> Firſt then for the Grace it ſelfe, What is <hi>Zeale?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> It is a holy Ardour kindled by the holy Spirit of God in the affections, improving a man to the utmoſt for Gods glory, and the Churches good; <hi>Zelus eſt in<g ref="char:EOLhyphen"/>tenſus gradus purae affectionis:</hi> It is not ſo much any one
+<pb n="6" facs="tcp:126056:8"/>affection, as the intended degree of all. Affections are the motions of the Will, as carried out to the pro<g ref="char:EOLhyphen"/>ſecution of good, or avoiding of evill: They are, as the Philoſopher ſpeaks, <hi>exitus animae,</hi> the out-goings of the ſoule. What the Wheeles are to the Cart, the Sinewes to the Body, Wings to the Bird, the Wind to the Sailes ſpread, ſuch are the Affections to the Soule, implanted by God to carry it hither and thither as the objects do more or leſſe affect. Man lies like a logge, the ſoule moves not, but as the Affections ſtirre.</p>
+            <p>For their order they are ſo placed in the ſoule, as that they are ſubſervient one to another; the ira<g ref="char:EOLhyphen"/>ſcible to the concupiſcible. When the deſiring fa<g ref="char:EOLhyphen"/>culties flag, grow remiſſe by intervenient impedi<g ref="char:EOLhyphen"/>ments, then comes in the iraſcible faculties, as <hi>removens impedimenta,</hi> as taking away the impediments; and is not this that which is properly called Anger? This made <hi>Luther</hi> to ſay, <hi>Ira ſuo loco eſt optimum Dei donum.</hi>
+            </p>
+            <p>The ſecond thing is the Object, <hi>Gods Houſe;</hi> the houſe of God under the Law, was all the externall pledges of Gods preſence, the Altars, Temple, Taber<g ref="char:EOLhyphen"/>nacle, Ark, &amp;c. The houſe of God under the Goſpel, is (as the people of God elſewhere, ſo) the Ordinan<g ref="char:EOLhyphen"/>ces of God here.</p>
+            <p>The third thing is the Degree, <hi>hath eaten me up;</hi> a me<g ref="char:EOLhyphen"/>taphor taken from men that receive nouriſhment, and the meat after its ſeverall concoctions, is aſſimilated into the nature of them that receive it. Zeale doth totally ſurprize us in what concerns God, we ſo minde the things of God, as if we minded nothing elſe. What was ſaid of <hi>Peter,</hi> that he was a man made all of fire: and of Saint <hi>Paul</hi> in reſpect of his ſufferings, that he was
+<pb n="7" facs="tcp:126056:8"/>a ſpark of fire burning in the middle of the ſea;
+<note place="margin">Flamma in<g ref="char:EOLhyphen"/>extinguibi<g ref="char:EOLhyphen"/>lis in medio mari.</note> that may be much more ſaid of Chriſt when he was upon the work of Church-reformation.</p>
+            <p>The Text thus opened, this propoſition offers it ſelfe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> That <hi>Church-reformation doth call for utmoſt zeale.</hi> Our love to promote that work muſt be ſuch,
+<note place="margin">
+                  <hi>Can.</hi> 4 12.</note> as many waters cannot quench: Our deſires muſt be enlarged,
+<note place="margin">
+                  <hi>Pſ.</hi> 119 20</note> as thoſe which break through all impediments, admit of no deniall, give me my requeſt or I die:
+<note place="margin">
+                  <hi>Verſ</hi> 171.</note> our hope muſt be more longing, our endeavours full of activity, our hatred of the oppoſites more perfect, our anger in removing the hindrances more violent. Theſe ſtirrings of the Spirit expell Lukewarmneſſe, induce Zeale. Zeale ſets on work the whole tide of our affections;
+<note place="margin">
+                  <hi>Pſa.</hi> 87.7.</note> 
+               <hi>All my ſprings are in thee:</hi> in promoting the good of Gods Church, <hi>David</hi> had a ſpring-tide of his affections, they all ran in that channell. To what dangers, hazards, and cenſures did Chriſt here in the exerciſe of his zeale expoſe himſelfe in the caſe of Church-reforma<g ref="char:EOLhyphen"/>tion! <hi>Davids</hi> zeale for the ſetling of the Ark, how did it make him deny himſelfe in his moſt neceſſary refreſhings, <hi>I will not goe into my houſe,</hi> &amp;c.
+<note place="margin">
+                  <hi>Pſa.</hi> 132.3.</note> his houſe was no houſe, his bed no bed, his reſt no reſt; ſo in his worldly credit, <hi>I will yet,</hi> for my Gods ſake,
+<note place="margin">2 <hi>Sam.</hi> 6.22</note> 
+               <hi>bee more vile;</hi> So in thoſe innumerable heaps of gold and ſilver,
+<note place="margin">1 <hi>Chro.</hi> 29.3</note> which out of his earneſt zeale he had prepared and ſet apart for the building of the Temple. <hi>Nehe<g ref="char:EOLhyphen"/>miah</hi> that Embleme of Reformers, what a meaſure of zeale did he diſcover in leaving all his Court prefer<g ref="char:EOLhyphen"/>ments, putting himſelfe in his owne perſon upon a hazardfull and tedious journey, in the encounters and
+<pb n="8" facs="tcp:126056:9"/>oppoſitions both open and ſecret he met withall, in his expenſefulneſſe and that to prodigality, as it may ſeeme, for the common cauſe, in his unwearied perſiſting in the work till it was accompliſhed. How iron-like was the ſpirit of <hi>Elias?</hi> how did he out of a ſpirit of zeale againſt the Idolatry of <hi>Baal</hi> ſet his face againſt <hi>Ahab, Iezebell,</hi> and all the Prieſts of <hi>Baal?</hi> how was he driven to flie for his life? (ſome Geographers com<g ref="char:EOLhyphen"/>pute his journey at many hundreds of miles;) How great were the exigences he was put unto, even near affamiſh<g ref="char:EOLhyphen"/>ment, to a wearineſſe of his life. <hi>Iohn</hi> the Baptiſt of what an invincible ſpirit he was, his encounter with a generation of vipers, his bold and daring (for it coſt him his life) reproofe of <hi>Herod</hi> for his <hi>Herodias,</hi> his turning of Mountaines into Valleys, his making of rough wayes plaine, doe all witneſſe. The want of zeale in the people in <hi>Iehoſophats</hi> time,
+<note place="margin">2 <hi>Chron.</hi> 20 33.</note> 
+               <hi>they having not prepa<g ref="char:EOLhyphen"/>red their hearts to ſeek the God of their fathers,</hi> kept up the <hi>high places;</hi>
+               <note place="margin">2 <hi>Chron.</hi> 29.36. <hi>&amp;</hi> 30.1</note> but in <hi>Hezekiah's</hi> time the zeale of the people plucked them downe; <hi>the work was done ſuddenly, for the people were ready:</hi> of ſuch moment it is, that where Church-reformation is in hand, a ſpirit of zeale ſhould run in the veines of the Reformers: No ſuch unbeſceming evill as, when the cauſe of God lies at ſtake, for men to be cold, lukewarme Neuters, warping ſometimes one way, ſometimes another.</p>
+            <p>In the further proſecution of this truth, three par<g ref="char:EOLhyphen"/>ticulars doe preſent themſelves.</p>
+            <p n="1">1. Convincing reaſons muſt be rendered, why zeale muſt be preſent in Church-reformation.</p>
+            <p n="2">2. What influence zeale ought to have in Church-Reformers.</p>
+            <pb n="9" facs="tcp:126056:9"/>
+            <p n="3">3. How Zeale muſt bee qualified, that it may be kept within its bounds; zeale not confined is as wilde<g ref="char:EOLhyphen"/>fire.</p>
+            <p>For the firſt of theſe, three Reaſons doe offer them<g ref="char:EOLhyphen"/>ſelves as ariſing from the nature of the work in re<g ref="char:EOLhyphen"/>ſpect of its</p>
+            <p n="1">1. Excellency.</p>
+            <p n="2">2. Difficulty.</p>
+            <p n="3">3. The deſtructive nature of Church-evills, if not reformed.</p>
+            <p>The excellency of the work I argue three wayes.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>1</label> 1. In that the work of Church-reformation is one of Gods ſpeciall favours, whereby the Lord would en<g ref="char:EOLhyphen"/>deare his Church to him.
+<note place="margin">
+                  <hi>Eſay</hi> 1.25.</note> When after the Churches ſad ſufferings, he would doe his people a ſpeciall fa<g ref="char:EOLhyphen"/>vour, he tells them that <hi>he will purge away all her droſſe,</hi>
+               <note place="margin">
+                  <hi>Eſay</hi> 54.11, 12, 13.</note> 
+               <hi>and take away all her tinne.</hi> So when the Lord would expreſſe himſelfe in the greateſt declarations of his love to his Church.
+<note place="margin">
+                  <hi>Ver.</hi> 13.</note> 
+               <hi>Oh thou afflicted and toſſed with tempeſt, I will lay thy ſtones with faire colours, thy founda<g ref="char:EOLhyphen"/>tions with Saphires,</hi> &amp;c. God will ſet up his ordinances in a more glorious way; <hi>all thy children ſhall be taught of the Lord.</hi> Accordingly in this latter age of the world, what is the great work, for which the Church bleſſes God with <hi>the ſong of Moſes, and the ſong of the Lambe,</hi> is it not the victory over the beaſt, his name, mark, &amp;c. all done by Church-reformation:
+<note place="margin">
+                  <hi>Rev.</hi> 15.3, 4.</note> 
+               <hi>Great and marvellous are thy works, Lord God Almighty,</hi> &amp;c.</p>
+            <p n="2">2. The excellency of the work is argued jointly from the relations betwixt God and his Church, and the office which Reformers do.
+<note place="margin">
+                  <hi>Cant.</hi> 4.12.</note> The Church is Gods Garden, which being planted with all variety of flowers
+<pb n="10" facs="tcp:126056:10"/>is apt to be overgrowne with weeds, that not only marre the beauty of it, but eat out the good herbs: Reformers, their work is to weed the Lord his garden, throw out all thoſe noiſome herbs which would have ſpoiled all the good ones.
+<note place="margin">
+                  <hi>Verſe</hi> 13.</note> The Church is the Lords Orchard, wherein trees of all kindes, both for fruit and and medicine, grow upon the banks thereof: The Ma<g ref="char:EOLhyphen"/>ſter of that Orchard is impatient of any ſuch trees that cumber the ground, and after many yeares beare no fruit; Reformers, their work is to root out the plants that God never planted.
+<note place="margin">
+                  <hi>H<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> 3.6.</note> The Church is Gods houſe, where he delights to dwell; Reformers are to caſt out all the durt, droſſe, and garbage that was odious and irkſome to the Maſter of the houſe; they ſweep downe all the cobwebs wherein the Spiders did build. The Church is Gods Spouſe,
+<note place="margin">
+                  <hi>Cant.</hi> 4.12.</note> in whoſe beauty his ſoule de<g ref="char:EOLhyphen"/>lights; that ſhe ſhould be deformed with ſtrange attire, ornaments borrowed from notorious ſtrumpets, the Lord cannot endure; Reformers they ſtrip her of all her harlotry attire, take off all her <hi>Iezabel-like</hi> pain<g ref="char:EOLhyphen"/>tings, and render her to Chriſt in her native ſimplicity. The Church is the Lords Vineyard,
+<note place="margin">
+                  <hi>Cant</hi> 8.12.</note> which he keeps and waters every moment; Reformers their work is to take the Foxes that deſtroy the Vines. How wel<g ref="char:EOLhyphen"/>come ſhould the feet of ſuch be?
+<note place="margin">
+                  <hi>Cant.</hi> 2.15.</note> and how ſhould the precious nature of the work in relation to God, draw out all our ſtrength?</p>
+            <p n="3">3. That the excellency of the work may be yet fur<g ref="char:EOLhyphen"/>ther evidenced: conſider it in the objects whereabout it is converſant; that is, either Things, or Perſons. Things are Doctrine, Worſhip, and Government; Doctrine is a ray or beame of ſupernaturall truth iſſued
+<pb n="11" facs="tcp:126056:10"/>out from God as a ſpeciall favour to his people, tending to informe them in right notions and apprehenſions concerning God, Chriſt, our ſoules, and the whole way of ſalvation. This is called the word of life, the wholeſome word, the word of ſalvation; how uſefull is this word,
+<note place="margin">2 <hi>Pet.</hi> 2.1.</note> ſince men do as ſurely periſh by <hi>damnable hereſies,</hi> as by morall vices. Doctrine is as the waters of the Sanctuary, how great a ſinne to puddle or poiſon theſe! was it not capitall among the Romans to poiſon the common ſprings? How noiſome was that plague to the Egyptians to have all their waters whereof they ſhould drink, turned into blood? was it not much more (as the ſoule is more excellent then the body) peſtilentiall to have all the maine Articles of our Re<g ref="char:EOLhyphen"/>ligion (not that of Juſtification excepted) to be all,
+<note place="margin">
+                  <hi>This Petit. with R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>monſtr. ex<g ref="char:EOLhyphen"/>hibit. in Parl. in Ian.</hi> 1640.</note> or the moſt, deſperately corrupted, as may be ſeene in the Miniſters Remonſtrance exhibited, together with their Petition for Reformation.</p>
+            <p>The ſecond particular, whereabout Reformation is converſant, is worſhip; whereby God and we have com<g ref="char:EOLhyphen"/>munion one with another, wee doe in a holy manner trade with God and hee with us. This is as <hi>Iacobs</hi> lad<g ref="char:EOLhyphen"/>der, The Angels of God aſcend and deſcend by it; our prayers aſcend, Gods bleſſings deſcend. The ordinances are thoſe golden pipes by which the golden oyle emp<g ref="char:EOLhyphen"/>ties it ſelfe into the hearts of Gods people; They are the Churches breaſts from whence her children ſuck nouriſhment; They are the Churches barne and her Wine-preſſe: They are on Chriſts part the kiſſes of his mouth, the mutuall embraces betwixt God and the Chriſtian Soule; Dry up all the breaſts in ſuch a City as this, how great will the cry of the Infants be? This
+<pb n="12" facs="tcp:126056:11"/>miſchiefe by the putting down of Preaching, and ſtrange Innovations brought and urged upon us in our moſt ſolemn worſhip, had in a great part ſeized upon us, and will yet certainly prevaile if the Refor<g ref="char:EOLhyphen"/>mers doe not ſeaſonably and ſtrongly oppoſe.</p>
+            <p>The third particular is Church Diſcipline or Govern<g ref="char:EOLhyphen"/>ment; all Societies, and ſo the Church, is upheld by ruling and being ruled. This amongſt other benefits it will yeeld, That it will preſerve the honour of Gods cenſures and ordinances, that great cenſure of Excom<g ref="char:EOLhyphen"/>munication, which is no leſſe then the delivery up of a man to Satan, and (next the day of judgement) it is <hi>judicium maxime tremendum,</hi> it ſhall no longer Lackey up and down for Duties and Fees as it hath done amonſt us, and as it did in the darkeſt times of Popery as <hi>Gerſon</hi> complaines,
+<note place="margin">
+                  <hi>Gerſ. lib de de<g ref="char:EOLhyphen"/>fectib. Eccleſia<g ref="char:EOLhyphen"/>ſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cis. Quid eſt qued, &amp;c. Ezek.</hi> 22.26.</note> 
+               <hi>Lib. de Eccleſ. defect. Quid eſt, quod Gladius Eccleſiae, ſcilicet Excommunicatio, extrahitur pro re nihili, ut pro re nummariâ?</hi> This once eſtabliſhed, will direct us to put a difference betwixt the holy and the prophane, the cleane and the uncleane, for want whereof the Lord challenges the Prieſts. Hath not this been, and is it not yet in a great part, remaining upon us, as one of our land deſtroying ſinnes; the promiſcuous thruſting in of ſcandalous and ignorant perſons upon the Sacrament of the Lords Supper, to the horrible prophaning of the ſame, and no power that would hitherto bee allowed as legall, no not for making ſtay of ſuch? Miſunderſtand me not, I meane not, that men ſhould be cut ſhort of that latitude which the Lawes of Chriſt allow; only let that hedge and mound of Diſcipline be erected, whereby holy things may not be indifferently adminiſtred, as well to men
+<pb n="13" facs="tcp:126056:11"/>egregiouſly prophane, and that after conviction, as to the Lord his holy ones.</p>
+            <p>Thus of things now of perſons; Theſe bee as all Church Officers, whereof a ground in Scripture, ſo more ſpecially, the Miniſters of the Word, the Diſpen<g ref="char:EOLhyphen"/>ſers of holy things; Theſe, if good, are the beſt of men; as, who are one of a thouſand,
+<note place="margin">
+                  <hi>Ioh.</hi> 33.2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 2 <hi>Cor.</hi> 5.19.</note> when others at the utmoſt but one of foure or five hundred; to theſe God hath committed the Miniſtry of Reconciliation even of God with men; theſe the Lord hath betruſted with the power of opening and ſhutting Heaven, when the like Commiſſion is not given to the An<g ref="char:EOLhyphen"/>gels themſelves, for to which of the Angels did God ever ſay, Whatſoever yee binde on Earth is bound in Heaven, &amp;c. Theſe worthily ſtiled, Saviours,
+<note place="margin">
+                  <hi>Iohn</hi> 20.23. <hi>Obad.</hi> 1.21.</note> and of ſuch as theſe, Reformers hold out a hope; all their en<g ref="char:EOLhyphen"/>deavours are and ought to be, that the Churches, thoſe who have ſate in darkneſſe and in the ſhaddow of death may bee furniſhed with bright ſhining lights. Now as theſe who attend at the Altar, if good the beſt, ſo if evill the worſt; for as it is among the Marriners who ſee the wonders of the Lord in the deep, they either are the beſt or worſt of men; the beſt, if what they ſee, works for the beſt; or the worſt, if not bettered: ſo we Miniſters, whom God acquaints with the depths of Scripture, come off from that priviledge either as moſt prophane, or moſt holy. If Salt hath loſt its favour, what is it good for, but to be caſt to the dunghill. What hope of ſalvation for ſuch, where remedies are turned into loathing &amp; poiſon, as
+<note n="a" place="margin">
+                  <hi>Qualis ſpes ſa<g ref="char:EOLhyphen"/>lutis eſſe poterit ubi quae ſuerint remedia conver<g ref="char:EOLhyphen"/>tuntur in nau<g ref="char:EOLhyphen"/>ſeam &amp; vene<g ref="char:EOLhyphen"/>num,</hi> Gerſon tract. de vita Cler.</note> 
+               <hi>Gerſon.</hi> And hence is that of
+<note n="b" place="margin">
+                  <hi>Chryſ hom.</hi> 40. <hi>in Math. Qui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> unquam vidit Clericum cito re<g ref="char:EOLhyphen"/>ſpiſcentem.</hi>
+               </note> 
+               <hi>Chryſoſtome,</hi> Who ever ſaw a Cler<g ref="char:EOLhyphen"/>gy man eaſily brought to Repentance. And does not
+<pb n="14" facs="tcp:126056:12"/>that work, which will thus reſerve all honour to Gods ordinances, keep them from the prophane ones, furniſh the Church with faithfull watchmen, and ridde us of ſuch burdens as are of all other moſt inſufferable, re<g ref="char:EOLhyphen"/>quire our utmoſt zeale?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>2</label> The ſecond particular, evincing the neceſſity of zeal, is the difficulty of the work in reſpect of the mountian<g ref="char:EOLhyphen"/>ous oppoſitions, Reformers ſhall and muſt encounter with; as firſt, not onely a large-ſpread, but alſo an una<g ref="char:EOLhyphen"/>nimous combination of the Churches enemies, <hi>Gebal, Ammon</hi> and <hi>Amaleck,</hi> the <hi>Philiſtims</hi> and them that dwell at <hi>Tyre,</hi> and they have conſulted together with one conſent, &amp;c. Pope, Spanyard, French, and the whole generation of the Engliſh-Jeſuites, Papiſts, and Prela<g ref="char:EOLhyphen"/>ticall Faction, and Libertines, all looking upon the work of Reformation, not only as hindring their de<g ref="char:EOLhyphen"/>ſign, their good work in hand as they call it; but undermining their Kingdome: How induſtriouſly vigilant are they in laying out themſelves, their heads, hands and purſes? They leave no ſtone unremoved, that may hinder our work or promote their own; Doth not all this challenge our utmoſt zeale?</p>
+            <p>Secondly, in reſpect of the prevailing nature, the cloſe adhering of <hi>Church-mens (as they are called)</hi> ſinnes, with whom Reformers muſt conteſt: Theſe are <hi>ſenſuality, ambition,</hi> and <hi>idlineſſe.</hi> It was the <hi>Monks</hi> bellies, and the <hi>Cardinalls</hi> Caps, which (as <hi>Eraſmus</hi> obſerved) did create <hi>Luther</hi> his greateſt trouble. Sen<g ref="char:EOLhyphen"/>ſuality is a ſinne where ever it ſeizes <hi>maximae adheren<g ref="char:EOLhyphen"/>tiae,</hi> of the greateſt adherence, as the Schoole ſpeaks:
+<note n="a" place="margin">
+                  <hi>Prov.</hi> 23. <hi>laſt v</hi>
+               </note> I will though ſmitten ſaith the drunkard, ſeek it yet againe; and of ſenſuall ſinnes it is ſaid,
+<note n="b" place="margin">
+                  <hi>Prov</hi> 2.19.</note> 
+               <hi>They return
+<pb n="15" facs="tcp:126056:12"/>not againe;</hi> The Philoſopher could ſay,
+<note n="c" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>The intempe<g ref="char:EOLhyphen"/>rate man is ſeldome a penitent man:</hi> The guiſe of ſuch Church-men an old Writer deciphers as thoſe which did turn their
+<note n="d" place="margin">
+                  <hi>Petr. Bleſſen<g ref="char:EOLhyphen"/>ſis, Ep.</hi> 7.</note> 
+               <hi>ſcribere</hi> into <hi>bibere,</hi> and their <hi>codices</hi> into <hi>calices:</hi> Such the Prophet deſcribes
+<note n="e" place="margin">
+                  <hi>Iſai</hi> 55.12.</note> Come, ſay they, and we will fill our ſelves with wine, and to morrow ſhal be as to day:
+<note n="f" place="margin">Fran. Duare<g ref="char:EOLhyphen"/>rus de Benefi<g ref="char:EOLhyphen"/>ciis.</note> Another deſcribes them as <hi>patinis ma<g ref="char:EOLhyphen"/>gis quam paginis incumbentes:</hi> Such belly-gods as theſe
+<note n="g" place="margin">
+                  <hi>Bernard Serm.</hi> 30. <hi>in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ant.</hi>
+               </note> another ſayes of them, no dainties ſuffice them; as if to bee judged rather by their complexion then their profeſſion: Againſt ſuch <hi>evill beaſts and ſlow-bellies,</hi> not only the Ancient
+<note n="h" place="margin">
+                  <hi>Concil. Lao<g ref="char:EOLhyphen"/>dic can</hi> 24. <hi>Concil Carthag. tertium. Synod. Turo<g ref="char:EOLhyphen"/>nenſis.</hi>
+               </note> Councels and Synods, but even <hi>Iulian</hi> himſelf ſhall riſe up in judgment: He perceiving that the Chriſtian Faith did grow and encreaſe by the ſobriety and abſtemiouſneſſe of their Miniſters, gave command to his Arch-Flamine <hi>Arſatius,</hi> that his Prieſts ſhould not drink in a
+<note n="i" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> Tavern, if any ſhould doe ſo he ſhould bee removed from his Prieſts Dignity; and for that horſe-leach humour of ambition, which hath ſo eaten up the vitals of our Clergy-Maſters: May wee not ſee a picture of them in <hi>Balaam,</hi> who that he might have been capable of <hi>Balack's</hi> great perferments, how doth hee wind and turn himſelfe every way that he might curſe Gods people, <hi>Num.</hi> 22. &amp; 23. How lively doth <hi>Bernard</hi> decipher them, <hi>Curritur in Eccleſia<g ref="char:EOLhyphen"/>ſtica, &amp;c.</hi> learned and unlearned runne <hi>ad curas Eccle<g ref="char:EOLhyphen"/>ſiaſticas ac ſi ſine cura victuri cum jam ad curam per<g ref="char:EOLhyphen"/>venerint,</hi> as if men were to live without all care when they came to a charge: The ſame authour tartly de<g ref="char:EOLhyphen"/>rides them when hee ſpeaks on this manner
+<note n="k" place="margin">Feſtina mu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>plicare prae<g ref="char:EOLhyphen"/>b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndas, inde e<g ref="char:EOLhyphen"/>vola ad Archidi<g ref="char:EOLhyphen"/>aconatum, d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in aſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ira ad Epiſ<g ref="char:EOLhyphen"/>co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atum, nec <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bi requ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> habitu<g ref="char:EOLhyphen"/>rus, quia ſic <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r ad aſtra? Q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o progrederis m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſer Bern. i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Serm. Ec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e reliquimus <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nia.</note>, Haſten to multiply Prebends, from thence flie to an Arch<g ref="char:EOLhyphen"/>deaconry, at length climb up to a Biſhoprick, not
+<pb n="16" facs="tcp:126056:13"/>ſatisfied with that, becauſe this is the way to Hea<g ref="char:EOLhyphen"/>ven? Whether doſt thou poſt ô miſerable man? So a forenamed
+<note n="l" place="margin">
+                  <hi>Petr Bleſſen<g ref="char:EOLhyphen"/>ſis, Ep.</hi> 13.</note> Author who lived in the twelfth century, <hi>Hodie per fas &amp; nefas, &amp;c.</hi> By right and wrong, unhap<g ref="char:EOLhyphen"/>py men, who runne to the Paſtorall Chaire and obſerve not that it is to them a Chaire of Peſtilence.</p>
+            <p>As for the idleneſſe of men in the miniſtry, may we not juſtly take up the complaint of the Prophet, <hi>They have eaten the fat,</hi>
+               <note place="margin">
+                  <hi>Ezekiel</hi> 34.3.</note> 
+               <hi>cloathed themſelves with the wooll, but they have not fed the Lord his flock:</hi> May wee not ſay, as ſometime a Canon of Chriſt-Church, in the beginning of Queen <hi>Elizabeth</hi> her raigne, when men were backward in preaching, ſpake by a <hi>proſopopeia</hi> to the Pulpit; <hi>Oh good Pulpit how haſt thou offended the Canons of Chriſt-Church, if thou wert an ambling Palfrey, they would ride on thee, if a Table well furniſh'd, they would feed on thee, if a bed of down, they would ſleep on thee, if a goodly garment, they would weare thee, alas good Pulpit, what haſt thou done that none of them will preach in thee!</hi> Might wee not well compare ſundry of our Clergy-men to <hi>Lepidus</hi> in the Orator,
+<note place="margin">
+                  <hi>Tull</hi> 2. <hi>de Orat.</hi>
+               </note> who when he lay tumbling in the green graſſe, cryed out, <hi>Vtinam hoc eſſet laborare,</hi> I would this were to labour; This is the humour of many of them, who when they doe ſwagger, haunt Taverns, play the Epicures, even then they ſay, <hi>Vtinam hoc eſſes paſcere gregem:</hi> I would this were to feed the Lord his flock; had not thoſe need be men made all of zeale, that ſhall encounter with men on whom not only theſe vices have deeply ſeized, but they are armed with wit and parts to plead for them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <p>The third particular that puts a difficulty upon the
+<pb n="17" facs="tcp:126056:13"/>work of this preſent Reformation above former: Hereto<g ref="char:EOLhyphen"/>fore Reformers have had to deale with the groſſe thick cloud of Popery, the Duncery of the Monks and Fryars, with ſuch palpable corruptions, as many of them were diſcernable by a common light; But now the work lies with men, many of whom retaine the ſame fundamen<g ref="char:EOLhyphen"/>tals with us, are come out of <hi>Babylon</hi> in reſpect of the foggy part of it, yet retaine many of the dregges of it which may in time prove pernicious and help to carry us back againe into <hi>Egypt;</hi> Theſe, many of them, are learned <hi>Gamaliels,</hi> men renowned for worth and parts, whom for my own part, I love and honour; but yet in ſuch things wherein God hath hidden from them what hee hath revealed to others, I ſay, as once <hi>Auguſtine</hi> ſaid of his friend, <hi>Ille hoc non vidit, ut aliquid amplius videret;</hi> It is poſſible that the Lord hath re<g ref="char:EOLhyphen"/>vealed greater things to them, given them a clearer light in many of the greateſt myſteries of Religion: Here is the zeale of Reformers, that they refuſe to ſwallow any thing that is unſound, becauſe it is offe<g ref="char:EOLhyphen"/>red as countenanced with Authority of men famous for their learning and eſteeme in the Churches; zeale knowes no reſpect of perſons in doing her work.</p>
+            <p>The fourth particular that makes the work difficult, is <hi>Demetrius</hi> and his whole traine that follow him, who cry out, <hi>Sirs, you know that by this craft we have gotten our wealth,</hi> I meane our <hi>Chancellors, Commiſsaries, Offi<g ref="char:EOLhyphen"/>cials, Regiſters, Proctors,</hi> and theſe, what mighty piles of wealth, what large and rich eſtates have they heaped together! Theſe have been as thoſe canker-wormes and cater-pillers, who have eaten up almoſt all the green
+<pb n="18" facs="tcp:126056:14"/>things of the Land, they have formerly pickt our purſes, ſcratched our faces, vexed our ſpirits, hurried us from Court to Court, and all this hath been practiſed under a pretence of Reformation: But what have they indeed done by all their ſpecious viſitations, have they been any other to us then like the Juglers Feaſt, who on a time invited his friends to a ſolemn Banquet, whereunto they came in great expectation to have their bellies filled, a Table was richly furniſh'd with all variety of Cates, they all ſet about it, but when they put forth their hands, they brought back nothing but aire, roſe and departed as hungry as they came; ſo hath it been with us in our moſt ſolemne viſitations: Or may wee as
+<note n="m" place="margin">Gerſon in Serm. habit. in Conc. Rhemens.</note> 
+               <hi>Gerſon</hi> did ſometimes compare the Viſitours of this kinde to the Cat, which being by the good Houſe<g ref="char:EOLhyphen"/>wife, put in the Dairy-Houſe to ſave the Cheeſe from the Miſe and Ratts, doth more harme then they all. Yea, where the greateſt pretence of good was held out, what have all our <hi>Viſitors</hi> and Reformers done more then the <hi>Popes Cardinals,</hi> whom hee ſent out in <hi>Luthers</hi> time to blinde the world with a pretence of Reformati<g ref="char:EOLhyphen"/>on? as they, ſo ours, may well be compared to the Foxes taile which raiſes the duſt, but carries none away.</p>
+            <p>The fifth difficulty is a potent Army of <hi>Nonreſidents,</hi> whoſe glory hath been a Polygamy of Benefices. An evill which we may well wonder at, that Goſpel light being ſo farre advanced as it is, learned and modeſt men ſhould not bee aſhamed of it, when as the moſt learned Divines in the Councell of Trent did generally proteſt againſt it, as appeares by their feverall Tra<g ref="char:EOLhyphen"/>ctates
+<note n="n" place="margin">Earth. Ca<g ref="char:EOLhyphen"/>ranza. Dom. à Soto Card. Cajetan. Fran. Torrenſis <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ac. Naclantus vide Biblioth. Colleg. Eman. vbi tractatus bi amnes in unum volumen com<g ref="char:EOLhyphen"/>pinguntur.</note>. I might urge theſe men with variety of Scrip<g ref="char:EOLhyphen"/>tures, with arguments of divers kinds; but I referre the
+<pb n="19" facs="tcp:126056:14"/>Reader to <hi>Caranza</hi> his <hi>Tractat. de non reſidentia,</hi> who ſpeaks ſo fully in this argument, as if his book were tranſlated into Engliſh, he would be deemed a Puritan that wrote it. I will only uſe one argument, which I thus propound; Every command of a duty does ne<g ref="char:EOLhyphen"/>ceſſarily imply all the neceſſary wayes and means where<g ref="char:EOLhyphen"/>by the duty is to be effected, elſe the Lord ſhould con<g ref="char:EOLhyphen"/>tradict himſelfe, if hee ſhould command a duty and diſpence with that without which it cannot be perfor<g ref="char:EOLhyphen"/>med. But reſidence in or neare the place where the duty is to be done, is evident by the light of nature.</p>
+            <p>Who ever made queſtion, whether the Porter, to whom the care of opening and ſhutting the doore is committed, ſhould reſide at the doore: or whether he that governes the ſhip ſhould ſit at the Helme; or whe<g ref="char:EOLhyphen"/>ther Watchmen are not to attend upon the Tower over which they are ſet as Watchmen? This is
+<note n="o" place="margin">Bellarm. in Ep. ad Nepot.</note> 
+               <hi>Bellar<g ref="char:EOLhyphen"/>min</hi> his owne argument, which upon occaſion he makes uſe of. And whereas men are apt to plead the diſcharge of their duty ordinarily by another, the unlawfulneſſe thereof I thus evince.</p>
+            <p n="1">1. For that the Lord himſelfe quarrels not only with ſuch deputies as were uncircumciſed in heart, for that is but an aggravation; but with deputies as deputies. <hi>You have ſet others to take the charge of my Sanctuary,</hi>
+               <note place="margin">
+                  <hi>Ezek.</hi> 44.8.</note> 
+               <hi>and have not your ſelves kept the charge of my holy things.</hi> So doe our Non-reſidents lay the Ark, as <hi>Vzza</hi> and his fellowes did, upon the Cart, when they ſhould have carried it on their ſhoulders.</p>
+            <p n="2">2. If deputies would ordinarily ſerve the turne, why then does the Apoſtle cry out,
+<note place="margin">2 <hi>Cor.</hi> 2.16.</note> 
+               <hi>Who is ſufficient for theſe things?</hi>
+            </p>
+            <pb n="20" facs="tcp:126056:15"/>
+            <p n="3">3.
+<note place="margin">
+                  <hi>Electa eſt indu<g ref="char:EOLhyphen"/>ſtria tua, non alterius,</hi> Ca<g ref="char:EOLhyphen"/>ranza.</note> Such as are choſen to the work of the Miniſtry, are choſen for their ſpeciall gifts, not for that they can choſe others.</p>
+            <p n="4">4. No man to whom a truſt, with reſpect to his fi<g ref="char:EOLhyphen"/>delity is committed, may devolve his truſt to another, unleſſe it be ſo expreſſed in his Grant; a ruled caſe among the <hi>Civilians:</hi> But no ſuch liberty granted by Chriſt.</p>
+            <p n="5">5. Why ſhould Chriſt admit of that in thoſe to whom hee commends the care of ſoules, that no maſter of a family will admit in any of his ſervants, that when he hath hired them at ſuch a rate to do his work, they ſhall ordinarily ſerve him by thoſe whom they hire at a lower rate.</p>
+            <p>But may it not make Non-reſidents bluſh (if they have ſo much modeſty as my hope is ſome have) if they look upon it, firſt, in the originall of it: ſecondly, in the indirect ſhifts whereby it was upheld in the Coun<g ref="char:EOLhyphen"/>cell of Trent: thirdly, in the expreſſions concerning it, as they have beene uttered by Friars, Cardinalls, and Popes themſelves. For the originall of it,
+<note n="p" place="margin">
+                  <hi>Qui p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ura cu<g ref="char:EOLhyphen"/>pit de origine non reſidentiae c<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſulat autho<g ref="char:EOLhyphen"/>rem hiſt. Conc. Trid. lib.</hi> 2. Bucer <hi>de vi &amp; uſu Sacr. Miniſt. Franc. Duaren. de benef. l.</hi> 5. <hi>c</hi> 7:</note> among many other grounds not now to be inſiſted upon; was it not at firſt brought in to maintaine the Pope his mag<g ref="char:EOLhyphen"/>nificence, who having gotten large territories to him<g ref="char:EOLhyphen"/>ſelfe, when he would advance himſelfe above all the Weſterne Monarchs, ſaw it neceſſary (that he might not be as an owle among the birds) to make great his Cardinalls by a wordly pomp. This that he might effect, he challenges to himſelfe, as the
+<note n="q" place="margin">
+                  <hi>Math. Paris <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en.</hi> 3.</note> priviledge of <hi>Peter,</hi> the collation of all Eccleſiaſticall Dignities: and to the end he might enrich his Cardinalls, and make them Princes fellowes, he gave diſpenſations to ſeverall
+<pb n="21" facs="tcp:126056:15"/>men to hold
+<note n="r" place="margin">Nic. Clemang. de corrup. fla. Eccleſ.</note> 
+               <hi>ducenta, trecenta, quadringinta, &amp; quin<g ref="char:EOLhyphen"/>ginta Beneficia &amp;c.</hi> This made a great acceſſion to his Greatneſſe, when thoſe of his Conclave were able to maintaine ſuch a State.</p>
+            <p>Secondly, for the carriage of the cauſe in the Coun<g ref="char:EOLhyphen"/>cell of Trent, know wee muſt, that the ſeverall Popes who lived in the time of the Councell, gave it in ſpe<g ref="char:EOLhyphen"/>ciall charge to their Legates, That among other things to be reformed in the Court of <hi>Rome,</hi> they ſhould be ſure that Non-reſidence ſhould ſuffer no dammage; and accordingly when that buſineſſe came in queſtion, the Legates found out a diverſion at leaſt ſix ſeverall times. And in the iſſue, when the Spaniſh Divines did preſſe the cauſe ſo farre, as it could not be avoided, but a Ca<g ref="char:EOLhyphen"/>non muſt be made againſt it; the
+<note n="ſ" place="margin">
+                  <hi>Gentiletus in Exam, Conc, Trid, l.</hi> 4. <hi>f.</hi> 23.</note> Pope creates forty titular Biſhops, ſends them to the Councell, and by that meanes was the cauſe carried ſo, that though a Canon was made againſt it, yet with ſuch Proviſo's, as makes it to be of no effect.</p>
+            <p>Thirdly, for the expreſſions of the Popiſh party,
+<note n="t" place="margin">
+                  <hi>Nihil abſurdius ne<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> mag<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<g ref="char:EOLhyphen"/>nit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſu in Eccle<g ref="char:EOLhyphen"/>ſa fue it (abaſ<g ref="char:EOLhyphen"/>ſumpto C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o) excogitatum &amp; nunc vix enim a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ius a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſus qui magis vexat Ec<g ref="char:EOLhyphen"/>cleſ. Chriſti quàm iſte de <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>luralitate Eccleſ.</hi> Caranz.</note> one ſaith, <hi>Since Chriſts aſcenſion, no greater evill in the Church then plurality of Benefices.</hi>
+               <note n="u" place="margin">Caj<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. in tract. de non Reſiden.</note> Another ſaith, That <hi>but that it is ſuppoſed they have the Churches abſolution at their death, they ought not to have the Benefit of Chriſtian Buriall.</hi>
+               <note n="x" place="margin">
+                  <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th hiſt t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>id. l.</hi> 2. <hi>p.</hi> 218. <hi>A.</hi> 629</note> Another calls the diſtinction of Reſidence and Non-reſidence, <hi>a diſtinction never enough to be deteſted.</hi>
+               <note n="y" place="margin">Dom. à Soto</note> Another ſaies, <hi>that antiently men were admoniſhed to be reſident, but it never came under diſpute.</hi>
+               <note n="z" place="margin">
+                  <hi>Caran<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſuffo<g ref="char:EOLhyphen"/>caremus ratione<g ref="char:cmbAbbrStroke">̄</g> nobis indita<g ref="char:cmbAbbrStroke">̄</g> ne<g ref="char:EOLhyphen"/>mo enim tam coe<g ref="char:EOLhyphen"/>cus qui de reſi<g ref="char:EOLhyphen"/>dentia dubitaret &amp;c. c.</hi> 11.</note> One of the former counts <hi>the juſtification of this evill to be a choaking of the light of nature, a ſhutting of our eyes in Luce meri<g ref="char:EOLhyphen"/>dianâ.</hi> We read of two Popes
+<note n="a" place="margin">
+                  <hi>Vide Extrav. Clem.</hi> 5. <hi>Omn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s quaſcun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> de ab<g ref="char:EOLhyphen"/>ſen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ia paſtorum factas diſpe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſa<g ref="char:EOLhyphen"/>tiones de caetero re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ocamus, c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſa<g ref="char:EOLhyphen"/>mus, anullamus.</hi>
+               </note> 
+               <hi>Clement</hi> the fifth, and
+<note n="b" place="margin">Vide Franciſ. Torrenſ. diſtricte mand <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>us om<g ref="char:EOLhyphen"/>nes epiſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>os v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te ſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ae obe<g ref="char:EOLhyphen"/>dientiae omnino re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>edere &amp; bona fide ad Eccleſ<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> proſiciſci.</note> 
+               <hi>Gregory</hi> the eleventh, <hi>who being viſited by the hand of
+<pb n="22" facs="tcp:126056:16"/>God, did,</hi> out of the ſenſe of their ſinne, <hi>make void all their diſpenſations for Non-reſidents.</hi> What a meaſure of zeale is required to reforme them, whom all this ſhames not!</p>
+            <p>The ſixth difficulty that will exerciſe a Reformers zeale, is the multitude adhering to their old cuſtomes, idolizing their formalities. We may ſee the <hi>Genius</hi> of the people in this regard in thoſe, <hi>Ierem.</hi> 44. <hi>What thou haſt ſpoken to us in the name of the Lord we will not doe,</hi> but we will doe ſo and ſo; in
+<note n="c" place="margin">
+                  <hi>Indges</hi> 18.24.</note> 
+               <hi>Micah,</hi> who when the Da<g ref="char:EOLhyphen"/>nites had taken away his idols, he makes after them with hue and cry; they demanding, what ailes the man? he makes this reply, Have you taken away my gods, and doe you ask me what I aile? You ſee the prevalency of old cuſtomes in the people called <hi>Hircani,</hi> who when their King went about to alter a Heatheniſh Cuſtome of caſting their dead to Maſtives in ſtead of Buriall, he had like to have loſt both his life and Crown: This impatience of the people to have any thing altered, the Papiſts will ſhame us; for who in the times of <hi>Pau<g ref="char:EOLhyphen"/>lus tertius,</hi> and <hi>Pius quintus,</hi> though they profeſſe infalli<g ref="char:EOLhyphen"/>bility in their way, yet have they yeelded to have their Breviaries twice changed.</p>
+            <p>And thus you have the ſecond Reaſon, why Zeale is of great uſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>3</label> A third convincing Reaſon of the neceſſity of zeal, is,</p>
+            <p>The deſtructive nature of thoſe evills, which if Refor<g ref="char:EOLhyphen"/>mation remove not, will be the ruine of Kingdoms. As the wickedneſſe of Miniſters: when the Lord calls for all the beaſts of the field to devoure and ſpoile <hi>Ieruſalem,</hi> the ſore-runner thereof was the wickedneſſe and idle<g ref="char:EOLhyphen"/>neſſe of the Prieſts,
+<note place="margin">
+                  <hi>Ier.</hi> 23.15.</note> 
+               <hi>Doth not wickedneſſe goe from them
+<pb n="23" facs="tcp:126056:16"/>into all the land? Thy watchmen are blind,</hi>
+               <note place="margin">
+                  <hi>Eſay</hi> 56.10, 11.</note> 
+               <hi>they are all dumbe dogs, they cannot bark: they are greedy dogs,</hi>
+               <note place="margin">
+                  <hi>Lam.</hi> 2.15.</note> 
+               <hi>they all look to their owne way, every one is for his gaine from his quar<g ref="char:EOLhyphen"/>ter.</hi> So when <hi>Ieremiah</hi> mentions the cauſe of <hi>Ieruſalems</hi> deſtruction, he inſerts this, <hi>Thy Prophets have looked out for thee vaine and fooliſh things, They have not diſcovered thine iniquity, to turne away thy captivity,</hi> &amp;c.
+<note place="margin">
+                  <hi>Vide Cent.</hi> 10. <hi>Magdebu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g.</hi>
+               </note> So in the tenth Century, which was moſt barren of all good writers, and fruitfull in all manner of wickedneſſe, wherein the Pope got up on horſeback, What ſaith a good writer of the Clergy of that time, What do we Miniſters who are ſo much the more inferior to others in holineſſe of life, as we are more eloquent in words, who ſtirring up others fall aſleep our ſelves;
+<note place="margin">
+                  <hi>Ansb. in Apoc. lib.</hi> 5. <hi>c.</hi> 11.</note> holding out light to others, are ſo much the more darkned in our ſelves. So when did Antichriſtianiſme and Maho<g ref="char:EOLhyphen"/>metiſme grow to their full maturity, <hi>An. Dom.</hi> 1300.
+<note place="margin">
+                  <hi>Hug. in Pſ.</hi> 104</note> was it not then when <hi>the Prelates became I doll ſhepherds, when the Paſtors became Wolves, and the Angels of the Churches, Devills?</hi> Was not the wickedneſſe of the Prieſts a principall in-let of the Saxons to expell the Brittains out of this land? <hi>Brittany,</hi>
+               <note place="margin">
+                  <hi>Vide Gild. a p.</hi> 58. <hi>ad finem.</hi>
+               </note> ſaith a good Au<g ref="char:EOLhyphen"/>thor, <hi>hath prieſts, but fooliſh ones, they underſtand not; Paſtors as they are called, but indeed Wolves, ready to ſlay the ſoules of the people, not ſeeking the good of the people, but the fulneſſe of their owne bellies &amp;c.</hi> So for matter of Doctrine, when the Saxons invaded this land,
+<note place="margin">
+                  <hi>Beda lib.</hi> 1. <hi>c.</hi> 7.</note> 
+               <hi>the Pe<g ref="char:EOLhyphen"/>lagian hereſie had with a filthy contagion defiled the Brit<g ref="char:EOLhyphen"/>taines faith.</hi> Should not zeale beſtirre it ſelfe, when ſuch evils as theſe overſpread a State.</p>
+            <p>The ſecond Head to be conſidered, is what influence zeale ought to have into Reformers.</p>
+            <pb n="24" facs="tcp:126056:17"/>
+            <p>Firſt, <hi>Zeale will and muſt doe her work throughly:</hi> It is Gods work, men muſt not halve it, there is danger leaſt corruptions grow againe, unleſſe pull'd up by the roots: Experience hath taught what ſad perſecu<g ref="char:EOLhyphen"/>tions, a partiall reformation hath made way for: What hope doth ſuch an imperfect proceeding give to the enemies, that wee will come on to them againe.</p>
+            <p>Secondly, <hi>Zeal muſt and will ſummon all the powers of ſoul and body, and all that we can prevaile withall, to further the work:</hi> God delights in men of activity, he cares not for the dull Aſſe to be offered in Sacrifice, the neck of it was to be broken: It was earneſt <hi>Baruch</hi> that had the prayſe above the reſt: The twelve Tribes did ſerve God, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.
+<note place="margin">
+                  <hi>Neh</hi> 3.20. <hi>Act.</hi> 26.</note> What ſhould wee be earneſt for, if not for God and his cauſe? Wilt thou be earneſt for thy friend, thy profit, thy pleaſures, and cold for thy God?</p>
+            <p>Thirdly, <hi>Zeale after ſhe is convinced of the juſtice of the cauſe, over-looks all dangers though never ſo great.</hi> So <hi>Caleb,</hi> when hee heard of the difficulties, reſolves, <hi>Let us goe up at once:</hi> So <hi>Eſther, If I periſh, I periſh:</hi> So Saint <hi>Paul, What doe you, weeping and breaking my heart?</hi> It alſo treads under foot all allurements, all hope of great things; God doth now as good as ſay, <hi>That which I have planted,</hi>
+               <note place="margin">
+                  <hi>Ier.</hi> 45.4, 5.</note> 
+               <hi>I will pluck up, and ſeekeſt thou great things for thy ſelfe?</hi>
+               <note place="margin">2 <hi>King. p.</hi> 26.</note> 
+               <hi>Is it now a time to receive money, and to receive garments, and Oliveyards, and Vineyards, and ſheep and oxen?</hi>
+            </p>
+            <p>Fourthly, <hi>Zeale helps a Reformer againſt the tentation of being alone;</hi> This prevailes much, eſpecially where the devill and our carnall friends carch us at an ad<g ref="char:EOLhyphen"/>vantage, and amplifie the diſcouragement: How have
+<pb n="25" facs="tcp:126056:17"/>the mighty been here overthrown? Zeal takes notice, for the ſupport of her ſelfe, of <hi>Ioſhua</hi> his reſolution, <hi>Chuſe yee whom yee will, but I and my houſe will ſerve the Lord:</hi> So of <hi>Elias</hi> his complaint, that <hi>he was left alone:</hi>
+               <note place="margin">2 <hi>Tim.</hi> 4. <hi>
+                     <g ref="char:V">Ʋ</g>nitos eſt fun<g ref="char:EOLhyphen"/>damentum nu<g ref="char:EOLhyphen"/>meri.</hi>
+               </note> So of <hi>Paul, At my firſt anſwering no man aſsiſted me:</hi> Zeale takes notice that numbers begin in one, and had there not beene one firſt, there had never been two.</p>
+            <p>Fiftly, Zeale <hi>commands perſeverance, and holding out in the work:</hi> Many <hi>begin in the ſpirit, but end in the fleſh;</hi> how many brave worthies that bloſſom'd faire, come on as promiſing great things, yet have ſplit them up<g ref="char:EOLhyphen"/>on the rock of an unfound heart, withered away, if not in the end proved falſe to God and their Countrey; worthy Patriots for a time, but their hearts failing them, they prove <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſuch as relinquiſh their ſtati<g ref="char:EOLhyphen"/>on. <hi>In Chriſtianis non initia ſed fines laudantur;</hi> He only receives the Crown that overcomes. That heat in a Reformer that is from heaven will hold out, not that which is meerely adventitious, ſet on work from outward cauſes.</p>
+            <p>The third Head, how zeale muſt bee qualified.</p>
+            <p n="1">1 It muſt bee <hi>founded in knowledge,</hi> the underſtand<g ref="char:EOLhyphen"/>ing is the eye of the ſoule: As mettall is dangerous in a blind horſe, ſo zeale when not directed by a judg<g ref="char:EOLhyphen"/>ment well informed; zeale, as fire, muſt have light as as well as heat. It is Hell where there is heat and no light but utter darkneſſe.</p>
+            <p>
+               <hi>The minde,</hi> and ſo zeale, <hi>cannot bee good without knowledge:</hi> The Jewes zeale, defective in that, <hi>not accor<g ref="char:EOLhyphen"/>ding to knowledge:</hi> This zeale muſt not be conjecturall,
+<note place="margin">
+                  <hi>Rom.</hi> 10.1.</note> probably ſeeming, ſuch only as wee have received from others without examination. Nothing more ordinary
+<pb n="26" facs="tcp:126056:18"/>then plentifull allegations of Scripture to carry a cauſe; it matters not how ſpecious and frequent quotations of Scripture there bee, as what they prove upon found tryall: You whom God hath betruſted with this work take not all for gold that gliſters.</p>
+            <p n="2">2 It muſt bee <hi>ordered with wiſdome,</hi> zeale muſt bee wary, as well as warme: Fire is good, but in a wiſe mans hands, that will not put it into the thatch; fire is good in the Chimney, but if it catch the rafters of the houſe it ſets all on fire: <hi>Sapientis eſt videre, non quid debeas ſo<g ref="char:EOLhyphen"/>lùm, ſed quid poſsis:</hi> In the encounter with vice to bee Reformed, wiſedome will not have a Reformer to ſet upon the Reforming, <hi>Quando neceſſe id, ut ſit impar vitio,</hi> that will but enrage vice more: Many miſchiefes men that meane well are ſubject to even their good en<g ref="char:EOLhyphen"/>deavours,
+<note place="margin">
+                  <hi>Eccl.</hi> 10.</note> but <hi>wiſdome is profitable to direct.</hi> Be<g ref="char:EOLhyphen"/>ware here of that overwary diſcretion that deſtroyes reale.</p>
+            <p n="3">3 It muſt bee <hi>tempered with love,</hi> zeale is apt to bee harſh, but love lines the yoak and makes it eaſie to bee borne: <hi>fit zelus,</hi> ſaid my Author, but <hi>non immoderate ſaeviens,</hi>
+               <note place="margin">
+                  <hi>Auguſt. in</hi> 6. <hi>Galat.</hi>
+               </note> 
+               <hi>&amp;c.</hi> Love takes us off from all bitterneſſe to mens perſons; <hi>Dilige &amp; dic quod voles,</hi> love and ſay what you will: Love allowes us to be warme, ſharp, home in our reproofes, but not ſcalding hot: The ſtomack ad<g ref="char:EOLhyphen"/>mits not that which burnes the lips, nor the eare that reproofe that is contumelious: Love calls upon us as to bee zealous for the truth, ſo to make it our work to endeavour to <hi>keep the unity of the Spirit in the bond of peace Epheſ.</hi> 4.3. What ſhould rend and divide us one from another, whom the Lord hath united with ſo ma<g ref="char:EOLhyphen"/>ny bonds, as to meet in one God, one Chriſt, one
+<pb n="27" facs="tcp:126056:18"/>Spirit, one Faith, one Baptiſme, one Heaven?</p>
+            <p>Farre be it from us, on whom the Apoſtle hath laid ſo many charges; if any conſolation in Chriſt,
+<note place="margin">
+                  <hi>Phil.</hi> 2.1.</note> if any comfort of love, if any fellowſhip of the ſpirit, if any bowels and mercies fulfill my joy, that ye be of one ac<g ref="char:EOLhyphen"/>cord and one mind. Doe not our Adverſaries ſtuddy to make rents among us, ſhall we gratifie them, weaken our ſelves? Doe not they cry out that if they can but devide us they ſhall conquer us? It is memorable what is reported of <hi>Iulian,</hi>
+               <note place="margin">
+                  <hi>Amian. Marcell. de Julian, lib.</hi> 22.</note> that hee did nouriſh diſſentions among Chriſtians, <hi>ut non timeret poſtea unanimem plebem.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> If zeale bee ſo requiſite a grace in him that God calls to bee a Reformer, then we muſt give diligence that our zeale may be of the right ſtamp: As every grace ſo zeale may and often hath its counterfeit, as</p>
+            <p>Firſt, <hi>If it want a true light,</hi> There be falſe lights that miſlead men over bogges and dangerous places; we are exceeding apt to be miſled when prejudiced by mens perſons, their learning or holineſſe, antiquity, or no<g ref="char:EOLhyphen"/>velty, as if we were neceſſarily to receive a thing becauſe ancient, or to reject it becauſe new
+<note n="a" place="margin">Inter iuvenile Iudicium &amp; ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>nile praejudici<g ref="char:EOLhyphen"/>um perit veritas</note>, by a haſty en<g ref="char:EOLhyphen"/>gaging of our judgments before we be able to judge, and an unwillingneſſe to retract when we have judged by an
+<note n="b" place="margin">Non tam an licet, quam ut liceat.</note> undue enquiry, when we rather ſeek that things may be lawfull, then whether they bee lawfull or not, when tranſported by ſelfe conceitedneſſe of our owne opinion; it is onely the eye-ſalve of the ſpirit by the Word muſt guide us, <hi>To the Law and to the Teſtimony.</hi>
+               <note place="margin">
+                  <hi>Eſay</hi> 8.20.</note>
+            </p>
+            <p>Secondly, <hi>If it ſuffer not it ſelfe to be ordered by wiſe<g ref="char:EOLhyphen"/>dom;</hi> This takes in right meanes as conducing to a right end; there is a precipitaney in zeale whereby hee that
+<pb n="28" facs="tcp:126056:19"/>haſteth in his matters, ſinneth. There is a ſpirit of de<g ref="char:EOLhyphen"/>liberation and counſell; conſider, conſult, then give ſentence,
+<note place="margin">
+                  <hi>Eccl.</hi> 10.25.</note> then practiſe. A good cauſe often miſcarries by indiſcreet bandling, <hi>The labour of the fooliſh wearieth every one of them, becauſe he knoweth not how to goe to the City;</hi> Ignorance of the right meanes, tires out men in their endeavours to no purpoſe.</p>
+            <p>Thirdly, <hi>If it eaſily fall into wrangling and quarrels: Love,</hi> that is and ought to bee the orderer of zeale; <hi>ſuffereth long,</hi>
+               <note place="margin">2 <hi>Cor.</hi> 13.</note> 
+               <hi>beareth all things, endureth all things:</hi> love knowes that a little breach will quickly bee a great one, It prevents them or ſpeedily makes them up, It gives the water no paſſage, no not a little; zeale for God, is tenderly reſpectfull of mens perſons; It is wild-fire and not zeale,
+<note place="margin">
+                  <hi>Dan</hi> 5.15. <hi>Acts</hi> 26.24.</note> that <hi>casts fire-brands and arrowes, and deadly words, and ſayes, I meane no harme,</hi> Prov. 26.18, 19.</p>
+            <p>Fourthly, If zeale bee right, <hi>ſhe will not bate ought of what lies under the command of God, no not a hoofe;</hi> its falſe zeale that cryes, neither mine nor thine, but let it hee devided, that makes nothing of ſmall matters: True zeale drives on the work of Reformation ſo as it leaves not the leaſt remnants of <hi>Baal,</hi> removes all high places, as conſidering that <hi>great perſecutions, have been raiſed upon ſmall matters,</hi> and that conſcience is a tender thing, as the eye, the leaſt moat troubles it.</p>
+            <p>Fifthly, <hi>If our zeale bee only flaſhy,</hi> (like thoſe unna<g ref="char:EOLhyphen"/>turall heats that come and goe by fluſhings) <hi>it is not right,</hi> wee have many that begin well, are hot and eager while in ſuch a company, while they have ſuch props, while carried on by ſuch hopes, while not aſſaulted with ſuch-tentations, while they thought the cauſe would
+<pb n="29" facs="tcp:126056:19"/>goe thus they were hot and eager in the work of Refor<g ref="char:EOLhyphen"/>mation, but as things alter from without, they alter from within, even to the totall remitting of their zeale.</p>
+            <p>Sixthly, <hi>If true zeale, as that which hath the cauſe of God in the eye, then tract of time, multitude of diſcourage<g ref="char:EOLhyphen"/>ments, falſeneſſe of men deſerting the cauſe, ſtrength of oppo<g ref="char:EOLhyphen"/>ſitions will not tire out a mans ſpirit:</hi> zeale makes men re<g ref="char:EOLhyphen"/>ſolute, difficulties are but whetſtones to their fortitude, it ſteeles mens ſpirits with an undaunted magnani<g ref="char:EOLhyphen"/>mity.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> If zeale be ſo neceſſary in a Reformer, then wee are all firſt to bleſſe God for that fire of zeale the Lord hath kindled in many of your hearts, (right Honourable and beloved) whereby you have been willing to ſpend and to be ſpent for the common cauſe: We may read your zeale in your unwearied paines, in your deniall of your ſelves in matter of profit and pleaſure, in the many hazards you have runne, even of all you are, have, or may expect in the railings and ſpeakings againſt of men: Have not we cauſe to be thankfull for that zeale of yours whereby you have taken off unſufferable bur<g ref="char:EOLhyphen"/>thens from our backs, for the many ſnares from which you have for the diſcovery of and delivery of us from moſt dangerous ruining plots, for the many precious Ordinances of Parliament that have iſſued out for the common good? Have not many unworthy ſcandalous and ſoule-ſtarving Miniſters been diſplaced, and good ones placed in their roome? Hath not the Lords day been reſtored to its priſtine ſanctification, and (by burning the book of Sports, with other Commands for the better ſanctifying of the day) been vindicated from all
+<pb n="30" facs="tcp:126056:20"/>thoſe former unſufferable profanations? How have ſuperſtitious monuments been defaced, ſecret Idola<g ref="char:EOLhyphen"/>tries ſuppreſſed, Seducers of the people been baniſhed the Land; For all theſe, and many more, everlaſting honour ſhall be upon the head of you our Reformers, <hi>Goe on and proſper</hi> (You Noble Parliament Worthies) <hi>doe worthily in our</hi> Ephrata, <hi>and be famous in our Bethle<g ref="char:EOLhyphen"/>hem,</hi> ſo ſhall the Lord make your names as a ſavotry ointment, crowne you with his beſt bleſſings, make your Families flouriſh when you are dead and gone, remember you according to all the good you have done for Gods cauſe: But above all, that you have found out a way in theſe diſtracted times (wherein Religion it ſelfe, groanes under the wantonneſſe of our people, loathing the <hi>Manna,</hi> and hunting after Novelties, under the uncouth and irreligious opinions crept in among us, under the bitter diviſions that over<g ref="char:EOLhyphen"/>ſpread City and Countrey) to call an Aſſembly of able and Worthy Divines, with whom you might adviſe for the ſettling of Doctrine, Worſhip, and Diſcipline. (Oh that this work had been ſooner in hand) Not only have you found ſuch a way, but you have embodied many worthies from among your ſelves with us: Have not we a double benefit hereby; firſt, you by this your aſſociation, put honour upon us who ſhould without you in the eyes of many carnall men have been very deſpicable; ſecondly, by this happy conjunction, you both help to order us who are ignorant of the nature of ſuch meetings, and withall by a ſeaſonable inter<g ref="char:EOLhyphen"/>poſall may ſtay diviſions among us. Only wee have a double ſuit to you.</p>
+            <p n="1">1 That you would not ſuffer the work to be either
+<pb n="31" facs="tcp:126056:20"/>ſpun out beyond what is meet, or yet haſtily ſlubber'd over. Not the firſt, for that the enemy is ſowing tares, and much harme may be done while we are conſulting; Errors may enter ſo deeply, that they may prove incu<g ref="char:EOLhyphen"/>rable. Nor yet let it be done negligently: firſt, for that it is the Lords work, to the negligent doing whereof belongs a curſe: ſecondly,
+<note place="margin">
+                  <hi>Ier.</hi> 48.10.</note> in that it is to us of neare concernment, all our wealth goes in this bottom: third<g ref="char:EOLhyphen"/>ly, for that many eyes are upon us from abroad, both of friends who will praiſe God for what we doe well, and of foes who watch for our balting.</p>
+            <p n="2">2 Our ſecond ſuit to you is, that when the Lawes of Chriſt, for the due adminiſtration of his ordinances, ſhall be diſcovered, you would be pleaſed to account it your greateſt honour to ſubmit to them. Chriſts go<g ref="char:EOLhyphen"/>vernment is the only liberty, thraldome to your luſts is the only true bondage; If you honour God, he will honour you. It is his Goſpel that hath clothed you with ſcarlet, put ornaments of gold upon you, put every pretious ſtone in your garments. Be not jealous, as if Chriſts Government would eclypſe your greatneſſe. Chriſts rule and your honours are not incompatible, the Lord Jeſus tells us his Kingdom is not of this world, he commands that <hi>Caeſar</hi> have his right. It is the ſtyle of the ſpirit of God that calls you <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> dignities (with reſpect to which the Schoole allowes that outward Pomp which Magiſtracy is honoured with;)
+<note place="margin">
+                  <hi>Reges &amp; Prin<g ref="char:EOLhyphen"/>cipes quos in re<g ref="char:EOLhyphen"/>verentia à ſub<g ref="char:EOLhyphen"/>ditis haberi opor<g ref="char:EOLhyphen"/>tet pretioſiori<g ref="char:EOLhyphen"/>bus veſtibus or<g ref="char:EOLhyphen"/>nentur, &amp; am<g ref="char:EOLhyphen"/>pliores habita<g ref="char:EOLhyphen"/>tiones poſſidear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t</hi> Aqu. 1. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> qu. 102.</note> and the ſame ſpirit mentions the pomp of <hi>Agrippa,</hi> when hee came to ſit in Judgement, without diſlike, <hi>Acts</hi> 25.23.</p>
+            <p>Secondly, as it ſets out the unſpeakable good of a zealous Reformer, and what a bleſſing ſuch a one is, ſo it points out to us what that is, which of all other doth
+<pb n="32" facs="tcp:126056:21"/>moſt unbeſeeme a Reformer, <hi>viz.</hi> the want of Zeale, which will render ſuch whom God hath called to this office, moſt odious to him, moſt abominable to men; ages preſent will count themſelves unfortunate in ſuch, ages to come will curſe ſuch, the opportunities which God afforded them, and which they for want of zeale have ſquandered away, will riſe up in judgement againſt them. What might ſuch have done, if a ſpirit of zeal had eaten up their ſpirits, they might have ſaved the Chur<g ref="char:EOLhyphen"/>ches at home and abroad, given Antichriſt that blow that ſhould have thrown him as a mill-ſtone into the middle of the ſea, delivered liberties, lawes, and inhe<g ref="char:EOLhyphen"/>ritances to poſterity, ſaved City, Countrey, the lives of millions of men, they might have finiſhed the work they began, all ſucceeding ages might have bleſſed God for them, their owne works have praiſed them in the gate. Now if zeale be wanting, they will undoe all the Churches of Chriſt, as much as in them lies; they will uphold tottering <hi>Babylon,</hi> deſtroy flouriſhing <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> deliver up their poſterity to abſolute ſlavery, make themſelves the monuments of ſhame and igno<g ref="char:EOLhyphen"/>miny to all that know or ſhall heare of them. <hi>Oh tell it not in Gath, publiſh it not in the ſtreets of Askelon, &amp;c.</hi> Muſt it not needs be ſo when ſo neceſſary a correquiſite as zeale is wanting? for what is a Reformer without zeale, but as a body without a ſoule, a Bee without a ſting, a ſouldier without his weapon, a Bird without wings, ſalt without ſavour. Oh then you Noble Sena<g ref="char:EOLhyphen"/>tors, who are under God the Chariots and Horſe-men of our Iſrael, what ever you part withall, part not with your zeale, let this be your honour and crown, and as a diadem upon your head, that yet you be zealous for
+<pb n="33" facs="tcp:126056:21"/>your Religion, your Countrey, your Lawes, and Liber<g ref="char:EOLhyphen"/>ties: ſhall you but remit your former zeale, a ſpirit of lukewarmneſſe (which God forbid) ſeize upon you, ſell truth for peace; you will live and die without ho<g ref="char:EOLhyphen"/>nour, and render your ſelves and us the moſt miſerable Nation under heaven.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>3</label> Let me addreſſe my ſelfe to you, Right Reverend and beloved in the Lord. Behold the Lord hath, by a pro<g ref="char:EOLhyphen"/>vidence of his, ſingled us out among our Brethren, for this great worke in hand. Both you and we all are de<g ref="char:EOLhyphen"/>ſirous this day to lay our ſelves low before the Lord, importunately to intreat his aſſiſtance, that he would be pleaſed to magnifie his power in our weakeneſſe. Hee might have made choyce of many of our Brethren eve<g ref="char:EOLhyphen"/>ry way as able, if not more able then our ſelves, but ſo is his pleaſure, and we dare not but be at his diſpoſe. The Lord can worke as well by the Oaten Pipe, as by the Silver Trumpet. Be then exhorted by him who rec<g ref="char:EOLhyphen"/>kons himſelfe the meaneſt of you all, and who in re<g ref="char:EOLhyphen"/>ſpect of his many infirmities might well have been diſ<g ref="char:EOLhyphen"/>penſed withall, be I ſay exhorted <hi>to cloath your ſelves,</hi> out of reſpect to the worke in hand, <hi>with zeale as with a cloak,</hi> to fall upon the buſineſſe you are deſigned to, <hi>toto animi impetu,</hi> you are called out to contend for the truth that was once given to the Saints, which hath beene ſealed with the bloud of Martyrs, hath beene juſtified by the learned pennes and diſputes of all the Worthies of this Kingdome, without interruption, for above this 80. yeeres, but of late, by a cunning, ambitious, and corrupt party, we had almoſt beene cheated of it, even of that truth which ought to be dearer then our lives.</p>
+            <p>Bleſſed be our God who hath given a turne, and made
+<pb n="34" facs="tcp:126056:22"/>a ſtop of their proceedings, whoſe worke was, as to put out the eyes of the people of the land by Ignorance, ſo to have leavened them with Heterodox Opinions: and were we not indeed gone almoſt as farre as <hi>Rome</hi> gates in a declining way? Our worke is a noble work, it is <hi>ſer<g ref="char:EOLhyphen"/>vare depoſitum,</hi> to be Feoffees in truſt for that ſaving truth, that patterne of wholſome words, which hath been derived to us, as from the pure ſountaine of Scripture, ſo alſo by the Channell of purer Antiqui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y comes with Letters of commendation from the ſufferings of Gods choyſeſt ſervants; ſuch they were whom the world was not worthy of. I beſeech you in the bowels of Jeſus Chriſt, we may quit our ſelves like men, doe our utmoſt, that we may vindicate the truth of God from all the aſ<g ref="char:EOLhyphen"/>perſions of evill-minded men, cleere it from thoſe am<g ref="char:EOLhyphen"/>biguities wherewith ungodly men have perplexed it, and doe ſuch further worke, in worſhip and diſcipline, as ſhall by God and Man be required of us. What would our Anceſtours, thoſe glorious lights of for<g ref="char:EOLhyphen"/>mer times, have given to have had ſuch a price put into their hands, as we unworthy ones at this time have? May we not juſtly think, that what opportuni<g ref="char:EOLhyphen"/>ty we have, is but the effect of the fervent prayers, the many teares, and ſad ſufferings of our ſage and Reverend Predeceſſors, that are now with the Lord? Are there not already upon us in this worke for which we are aſ<g ref="char:EOLhyphen"/>ſembled, the eyes of our Brethren of the Reformed Churches, as expecting the iſſue of this buſineſſe? Nay, is not the whole Nation in expectancy of what this meeting will produce? What manner of perſons ought we to be, in humbling of our ſoules before the Lord, crying mightily to him who alone keepes the key
+<pb n="35" facs="tcp:126056:22"/>of the Cabinet, unlocks the ſecrets of his will, opens the eyes of our underſtandings!
+<note place="margin">
+                  <hi>Luk.</hi> 24.</note> Can we looke back<g ref="char:EOLhyphen"/>ward, to the many brave excellent-ſpirited and well-parted men, who have turned ſome to <hi>Juſtinian,</hi> ſome to <hi>Galen,</hi> ſome to <hi>Litleton,</hi> others betaken themſelves to a retired Privacy, which long agoe might have ſate <hi>in Moſes Chaire,</hi> had there not ſtood the fiery blade of corruptions in worſhip and government to keepe them out? How many ſilver Trumpets, that might have made ſweet melody in Gods houſe, have beene hanged upon the willow trees, and all becauſe this worke was not done? How many hundreds of worthy, learned, ſoule-ſaving Miniſters, men excellently fitted for the worke, have beene driven out of our Land? (the Lord lay it not to our charge.) No ſmall affliction to be put upon the diſſerting of ones native Countrey, and all thoſe <hi>Charitates</hi> which under God are the life of our life, and further to be caſt upon forraigne Countries, thoſe ſome<g ref="char:EOLhyphen"/>times unwholeſome for our Engliſh bodies, placed among inhumane people, put upon wilderneſſes, wilde beaſts, ſavage people, and unknowne neceſſities, becauſe by reaſon of our ſinnes this worke hath not beene yet effected, they ſaw no hope of it. Oh the ſwarmes of godly men, that like <hi>Noahs Dove, could find no reſt for the ſoales of their feet,</hi> being hunted up and down, hurried hither and thither, and waſted with vexati<g ref="char:EOLhyphen"/>ous ſuits, to their utter undoing, who have been in the end forced, they and their whole families, with heavy hearts, and ſome with poore eſtates, to bid farewell to deere <hi>England,</hi> as never to ſee it againe? theſe would have beene content to have lived in a ſmoaky houſe, and a meane condition with freedome of conſcience.
+<pb n="36" facs="tcp:126056:23"/>Yea, they have beene put upon it to commit themſelves rather to the mercileſſe rage of the tempeſtuous Seas, to a long, tedious and irkeſome Sea-journey, wherewith they were utterly unacquainted, rather then to endure thoſe ſad impoſitions which were charged upon their conſciences: and now the Lord puts it into the hands of you the right Honorable that ſit at the ſtern in point of reformation utterly to remove. What ſhall I ſay to thoſe millions of ſouls, who have periſhed through the negligence, inſufficiency, ſcandalous and corrupt procce<g ref="char:EOLhyphen"/>dings of that order of men,
+<note place="margin">
+                  <hi>Bucer inopuſ. In tractatu de vi &amp; uſu mini<g ref="char:EOLhyphen"/>ſleris, p.</hi> 191.</note> which it is to be hoped, if our iniquities doe not hinder, will be rectified by that <hi>clericalis diſciplina,</hi> which learned <hi>Bucer</hi> did ſo often call for, in King <hi>Edward</hi> the <hi>6.</hi> dayes.</p>
+            <p>To this end I once againe doe humbly beſeech you, Men, Brethren, and Fathers, that you would take up the practiſe of ſuch holy duties, as may conduce to this ſo pious, ſo neceſſary a worke.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> And firſt let us all ſtirre up in our ſelves the gift of Prayer;
+<note place="margin">2 Tim. 1.6.</note> let it be frequent, fervent, and full of faith: you know the efficacy of prayer,
+<note place="margin">Eſay 45.11.</note> it ſets God on worke, and that with a holy kinde of <hi>command,</hi> it hath an omnipo<g ref="char:EOLhyphen"/>tency with it, it never went of any arrant and returned empty. Be confident if God do but ſtirre up our hearts in prayer hee will come in and helpe us in the worke. What if we be weake?
+<note place="margin">Pſal. 10.17.</note> yet he is ſtrong. What if wee want, in our own apprehenſion, thoſe abilities fit for the work? he can lift us up above our ſelves, &amp; ſupply us with helpe. What if we want that quickneſſe of underſtan<g ref="char:EOLhyphen"/>ding, activity of parts we ſee in others? yet if wee can but aſſiſt and encourage others, God will accept. Only reſolve of this, never any man a ſucceſſefull reformer
+<pb n="37" facs="tcp:126056:23"/>without a ſpirit of prayer. <hi>Elias</hi> and <hi>Luther</hi> tell us ſo much. To encourage us, Gods promiſes ſtands ſure,
+<note place="margin">ler. 33.3.</note> 
+               <hi>Ask of me and I will ſhew thee great and hidden things,</hi>
+               <note place="margin">Prov. 25.</note> 
+               <hi>which thou knoweſt not. If thou ſeekeſt for wiſedome as for ſilver, &amp;c. if thou cryeſt after knowledge, &amp;c. then ſhalt thou under<g ref="char:EOLhyphen"/>ſtand the feare of the Lord, the knowledge of God.</hi> We at<g ref="char:EOLhyphen"/>taine not truth onely by diſputing,
+<note place="margin">
+                  <hi>Lact. lib.</hi> 7 <hi>c.</hi> 2.</note> but by learning from him who onely knowes, ſaid one of the Ancients.
+<note place="margin">Luther.</note> And you know who ſaid, that prayer, reading, meditation, tentation, doe compleat a Divine.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, that God may impart to us that way of ſincerity in his worſhip, that forme of government, which may be moſt according to his will, (a favour worth the knowing, and which God refuſes not to ac<g ref="char:EOLhyphen"/>quaint them with that feare him;
+<note place="margin">Pſal. 25.</note> 
+               <hi>his ſecret is revealed to ſuch</hi>) let our ſtudy be to be doers of his wil. If the Glaſſe be cleane and ſoyle not the cleane water that is poured into it, we poure in more; if otherwiſe, we hold our hands: ſo the Lord doth with us that bee miniſters, hee will not poure the ſweet water of truth, but into the ſanctified heart. <hi>If any man,</hi>
+               <note place="margin">Iohn 7.27.</note> ſaith the Evange<g ref="char:EOLhyphen"/>liſt, <hi>will doe his will, hee ſhall know of the doctrine, whe<g ref="char:EOLhyphen"/>ther it be of God or no.</hi> Many perplexed diſputes, much difference there is among Brethren, whether this be the forme Chriſt hath left, the diſtractions are ſadly to be lamented: Would wee be able to winde our ſelves out of theſe Labyrinths of diſputes, ſee the good and right way God would have us to walke in, take notice of that promiſe in <hi>Ezekiel,</hi>
+               <note place="margin">
+                  <hi>Ezek.</hi> 43.11.</note> 
+               <hi>If the houſe of Iſrael ſhall be aſhamed of their iniquities, and of all that they have done, I will ſhew them the forme of the houſe, &amp;c.</hi> onely here we muſt beware, we dare not to offer to Gods peo<g ref="char:EOLhyphen"/>ple
+<pb n="38" facs="tcp:126056:24"/>ſuch a forme, as hath not its ground out of plaine places of Scripture, but ſuch onely as are Typicall and Allegoricall. <hi>Allegorica Theologia,</hi> (unleſſe the Lord himſelfe make the application) <hi>non eſt argumentativa:</hi> It is our errour that oft times we doe <hi>afferre ſenſum ad Scripturam non referre:</hi> we are oft times in fancying formes of government, like that Sect of Phyloſophers, who having drunke in this principle, that all the world was made of numbers, where ever they went, they thought they ſaw numbers. If the Lord ſhall but be<g ref="char:EOLhyphen"/>hold us lothing our ſelves for our wayes that have not beene good, diſallowing our ſinnes, perſonall and natio<g ref="char:EOLhyphen"/>nall,
+<note place="margin">
+                  <hi>Luke</hi> 24.</note> ſetting our hearts in a right frame, then wil he open our underſtandings that we may know the Scripture.</p>
+            <p>Thirdly, that God may ſo farre delight in us, as to make us Inſtruments of ſuch a glorious worke as this is, let us take all occaſions to diſpence the holy truthes of God to his people: the more wee poure out, the more God will poure in; the oyle in the Cruſe increaſed by pouring out; the bread where<g ref="char:EOLhyphen"/>with Chriſt fed his followers multiplyed in the brea<g ref="char:EOLhyphen"/>king. 'Tis true that this duty hath been looked up<g ref="char:EOLhyphen"/>on of late as that which had neither forme nor beau<g ref="char:EOLhyphen"/>ty.
+<note place="margin">
+                  <hi>Seſſ.</hi> 5.</note> Was it not our ſhame that even <hi>Bellarmine,</hi> yea the Councell of <hi>Trent</hi> it ſelfe, ſhould ſtile Preach<g ref="char:EOLhyphen"/>ing <hi>Praecipuum Epiſcopi officium,</hi> the chieſe duty of a Bi<g ref="char:EOLhyphen"/>ſhop, when we ſuppreſſed it, put gaggs in the mouthes of the Preachers, caſt all ſcorne upon it? The Lord bee bleſſed, who hath in a degree reſtored it to its priſtine dignity, opened the mouthes that were ſtopped, encou<g ref="char:EOLhyphen"/>raged the faithfull Preachers. Oh that our ſinnes may not make the ſhadow of the Dyall to goe back! A
+<pb n="39" facs="tcp:126056:24"/>maine danger here may be from thoſe that will thruſt in upon this worke that are not fit for it, that will be <hi>Canales</hi> before they be <hi>Conchae,</hi>
+               <note place="margin">
+                  <hi>Bernard is Cant. Serm.</hi> 18.</note> Channels to let out before they be veſſels to retaine. There is in many an effuſion before infuſion.
+<note place="margin">
+                  <hi>Cum <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>daedifi<g ref="char:EOLhyphen"/>cium arbaſta ſuccidim<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s &amp;c. Greg. Ep.</hi> 95.</note> Excellently ſpake that Father who ſaid: We cut not greene wood to build withall, but we firſt ſeaſon it, leſt it ſhrinke and deceive us.</p>
+            <p>Why obſerve we not, that ſuch are not to be admit<g ref="char:EOLhyphen"/>ted to the Miniſtery that are <hi>Novices</hi>
+               <note n="*" place="margin">1 <hi>Tim.</hi> 3.6.</note>. It was the com<g ref="char:EOLhyphen"/>plaint of <hi>Greg. Naz Orat, in Laudem, Baſil.</hi> That though no man could obtaine the name, no not ſo much as of a Painter, but he muſt firſt have mingled many colours, yet men are eaſily found fit for the Miniſtery. As the Poets fained the Giants, we make them Saints one day, and we bid them be wiſe and learned men another day, which have learned nothing, nor brought any thing to the Miniſtery, but onely their <hi>Velle.</hi> And now my deare brethren, whom I love and honour, give me leave to remember you of the Prophet <hi>Ezekiels</hi> ſad threatning, and Saint <hi>Pauls</hi> deepe charge. <hi>If the Watchman ſee the ſword come, and blow not the Trumpet, and the people bee not warned, their blood will I require at the Watch<g ref="char:EOLhyphen"/>mans hands.</hi> Who, ſaith one of the Ancients,
+<note place="margin">
+                  <hi>Quis tam ſaxe<g ref="char:EOLhyphen"/>us tam ferreus quemſententia haecnon percellat Proſp. lib.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>de vitâ contempla<g ref="char:EOLhyphen"/>tivâ, c.</hi> 20. <hi>Fulminaſunt, non verbe. E<g ref="char:EOLhyphen"/>raſ. Eccleſ.</hi>
+               </note> ſo ſtony ſo iron hearted a man as whom this Scripture would not amaze. And <hi>Eraſmus</hi> ſayes of theſe words, they are rather thunderbolts then words, ſuch thunderbolts which the Iudge of all the world will dart againſt negligent Pa<g ref="char:EOLhyphen"/>ſtors. Blond-guilt is a ſad ſinne, but guilt of ſoule<g ref="char:EOLhyphen"/>bloud is more dreadfull and inexpiable. We may have many ſinnes, but beware we adde not this to all the reſi<g ref="char:EOLhyphen"/>due. No ſuch remarkeable plague fell ever upon any Family, as upon that of <hi>Eli</hi> for the wickednes of <hi>Hophni</hi>
+               <pb n="40" facs="tcp:126056:25"/>and <hi>Phinehas,</hi> who made people to abhorre the offe<g ref="char:EOLhyphen"/>rings of the Lord.
+<note place="margin">1 <hi>Sam</hi> 3.</note> 
+               <hi>The wickedneſſe of Eli his houſe ſhall not be purged with ſacrifice or offering for ever.</hi> As for Saint <hi>Pauls</hi> deep charge upon <hi>Timothy,</hi> weigh it through<g ref="char:EOLhyphen"/>ly.
+<note place="margin">2 <hi>Tim.</hi> 4.1, 2.</note> 
+               <hi>I charge thee before God and the Lord Ieſus Chriſt, who ſhall judge the quick and the dead, in that his appea<g ref="char:EOLhyphen"/>ring and in his Kingdome, preach the Word, bee in<g ref="char:EOLhyphen"/>ſtant in ſeaſon and out of ſeaſon.</hi> At other times it ſuf<g ref="char:EOLhyphen"/>fices to urge Gods Name, here the ſweet Name of the Lord Jeſus, that is honey in the mouth, Muſicke in the eare, a joyfull ſhout in the heart, is preſſed; At other times the Name of Jeſus Chriſt ſuffices, here he ſets it on by an argument taken from the glorious and laſt ap<g ref="char:EOLhyphen"/>pearing of Chriſt, and that to judge the quicke and the dead, which will be a day of terrour, and ſuch a day where in Chriſt will caſt it in the teeth of every idle Miniſter, <hi>Perditam non quaeſiviſti,</hi> thou haſt not ſought the ſheepe that was loſt, <hi>redde rationem villicationis,</hi> give an account of thy ſtewardſhip.
+<note place="margin">
+                  <hi>Ibiſid eſt, in die judic it) Petrus cum Iudea, bi Paulus conver<g ref="char:EOLhyphen"/>ſum mundum poſt ſe ducens apparebit, &amp;c. Ibi omnes do<g ref="char:EOLhyphen"/>minicae gregu arietescum ani<g ref="char:EOLhyphen"/>marumlucris apparebunt, nos miſeri, &amp;c. qui paſtores hic vocati ſu<g ref="char:EOLhyphen"/>mus &amp; ibi gre<g ref="char:EOLhyphen"/>gem non duc<g ref="char:EOLhyphen"/>mus,</hi> Gregor. hom. 7. livan.</note> How heavy an ac<g ref="char:EOLhyphen"/>count will that be to thoſe to whom the Lord hath ſaid, <hi>Occupy your talents till I come,</hi> when the Lord ſhall call them to a reckoning, and every one come in and ſay, Lord here bee the ſoules thou haſt given me; and thou an idle or ſcandalous Miniſter, who haſt built with one hand and deſtroyed with another, haſt nothing to offer but a poore leane ignorant ſtar<g ref="char:EOLhyphen"/>ved Flock, when others bring in large harveſts. How ſad will thy account bee! If terrour will not affright us, then let the glorious crowne that abides every faithfull Miniſter worke upon us, for ſuch there <hi>is laid up a Crowne of Righteouſneſſe,</hi> 2 <hi>Tim.</hi> 4.8. <hi>a Crown that wi<g ref="char:EOLhyphen"/>thers not,</hi> 1 <hi>Pet.</hi> 5 4. an <hi>Euge</hi> enter into thy Maſters
+<pb n="41" facs="tcp:126056:25"/>joy, thou haſt beene faithfull in a little, I will make thee ruler over many. Shall not they that winne ma<g ref="char:EOLhyphen"/>ny ſoules unto God ſhine as ſtarres for ever? <hi>Dan.</hi> 11.3. Doe not all the contents that are apt to Byas us from our work, fall ſhort of that eternall weight of glory? Why conſider wee not, other men have other wayes to goe to heaven, Magiſtrates if they rule well, rich men if they diſtribute liberally and give to the poore, private men by diligence in their Calling, but a Miniſter can goe no way to heaven but by faithful<g ref="char:EOLhyphen"/>ly attending the Lords flocke. Yea, if it could be ſo that there ſhould be no reward that abides a zealous faithfull Teacher (which notwithſtanding is ſurely laid up in heaven) yet the very comfort that ariſes from the diligent doing of our duties, would abundant<g ref="char:EOLhyphen"/>ly recompence all our paines. <hi>Ecquod gaudium,</hi>
+               <note place="margin">Eraſmus Eccleſiaſt.</note> 
+               <hi>ecquod tripudium, &amp;c.</hi> Is there any joy, any dance can more cheere up a mans ſpirit, then the comfort of a ſoule wonne to Chriſt? Let other men enjoy their fat and rich preferments, hunt after dignities, be called of men <hi>Rabbi;</hi> as for us, if we can ſay, here be the children the Lord hath given us, it ſuffices. Let others ſay, who will give us ſuch a Biſhopricke, ſuch a Deanry, ſuch a rich Parſonage; a good Miniſter will ſay, as the King of <hi>Sodome</hi> ſaid to <hi>Abraham,</hi> Give me the perſons (ſo ma<g ref="char:EOLhyphen"/>ny Converts) take thou the goods to thy ſelfe. Was ever <hi>Caeſar</hi> more glorious in his Diademe, when he put downe whom he would, and ſet up whom he pleaſed, when he rode in triumph before whole Armies of Cap<g ref="char:EOLhyphen"/>tives,
+<note place="margin">
+                  <hi>Rom.</hi> 15.17.</note> then Saint <hi>Paul</hi> when he glories how he had ſpred the Goſpel from <hi>Ieruſalem,</hi> and all the circumjacent Countryes to <hi>Illyricum?</hi> I have whereof, I may glory through Jeſus, &amp;c.</p>
+            <pb n="42" facs="tcp:126056:26"/>
+            <p>And on the contrary, is there any ſuch wounding croſſe, is there any ſuch torturing fury that can ſo tor<g ref="char:EOLhyphen"/>ment and eat up the heart, as when an unfaithfull Mini<g ref="char:EOLhyphen"/>ſter ſhall ſeriouſly and in cold bloud weigh what heapes of ſoules he hath beene a meanes to plunge for ever into the infernall Lake? Can his bravery, his luxury, his good companions, his jollity? can the excellency of his parts and learning, his applauſe in the world priviledge him, when the hand writing ſhall appeare upon the wall? Surely when a Miniſter ſhall lie upon his death<g ref="char:EOLhyphen"/>bed, nothing can uphold his drooping ſpirit, but the te<g ref="char:EOLhyphen"/>ſtimony of his conſcience, that he hath fought a good fight, kept the faith; This alone muſt be our Paradiſe.</p>
+            <p>Finally my Brethren, why conſider we not that God hath engraven our duties upon our names? we are watch<g ref="char:EOLhyphen"/>men, ſhepheards, workemen, builders, the Lords huſ<g ref="char:EOLhyphen"/>bandmen, his ſouldiers, if we ſlack or forget our duties, we ſhall forget our names. Nay, our names will be our accuſers; the ground of the Lords quarrell againſt us. That which of old was given in charge to a <hi>Roman</hi> Conſull,
+<note place="margin">
+                  <hi>Pium nomen eſt reatus impii,</hi> Salv. de provid lib. 4.</note> 
+               <hi>Conſul es praeſta nomen,</hi> the ſame ſhould eue<g ref="char:EOLhyphen"/>ry one of us enforce upon our ſelves, <hi>Miniſter verbies, hoc age, paſtor es, praeſta nomen tuum.</hi> I conclude with that of <hi>Hierome,</hi>
+               <note place="margin">In Ep. ad Nepot.</note> Reade what your name is, and be what you are call'd.</p>
+            <p>And now, beloved, having endeavoured to quicken you and my ſelfe to the duty of preaching, give mee leave to ſuggeſt ſomething concerning the manner that it may be done to the beſt purpoſe; the Lord requires not onely that we preach the Word, but ſo to preach it as that our hearers may bee brought on to the Faith:
+<note place="margin">
+                  <hi>Acts</hi> 14.1. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>Paul</hi> and <hi>Barnabas</hi> are ſaid <hi>[ſo]</hi> to have taught
+<pb n="43" facs="tcp:126056:26"/>that multitudes beleeved. If it bee an advantage to a hearer in his work how he hears, is it not ſo to a preach<g ref="char:EOLhyphen"/>er how he preaches? That our Miniſtery may bee ſucceſſefull;</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, <hi>We muſt preach zealouſly;</hi> that was the honour of <hi>Iohn</hi> the Baptiſt, that <hi>he was a burning light;</hi>
+               <note place="margin">
+                  <hi>Iohn</hi> 5.35. <hi>Act.</hi> 7.16.</note> of Saint <hi>Paul,</hi> that with reſpect to the Idolatry at <hi>Athens, his ſpirit was ſtirred within him;</hi> ſo of <hi>Apollos</hi> it is witneſſed, that <hi>he was fervent in ſpirit.</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.21.</note> This Zeale muſt ſhew it ſelf by a holy indignation againſt ſinne;<note place="margin">
+                  <hi>Sozemen. lib.</hi> 8. <hi>c.</hi> 2. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> It is reported of Saint <hi>Chyſoſtome,</hi> that he reproved ſinne againſt God, as if he himſelfe had received an injury. It appears alſo by enlarged deſires, that the ſouls of the hearers may be brought to God; ſo in S. <hi>Paul, Rom.</hi> 9.3. <hi>I could wiſh my ſelfe accurſed from Chriſt, &amp;c.</hi> This Zeale in a Preacher will put life and quickneſſe into their expreſſions; Men of cold and dead ſpirits, their words die in their mouthes, and uſually beget a cold<g ref="char:EOLhyphen"/>neſſe in their hearers; Zeal is as Roſin to the ſtrings of the muſicall Inſtrument, without which it makes no ſound. Only, as the good Huſwiſes fire on the hearth is enlarged or leſſened according as the family occaſions, ſo according to the nature of the Offences, as great or ſmall, ſhould the Preachers Zeale be proportioned.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, <hi>We muſt preach compaſsionately;</hi> what elſe is inſinuated in thoſe phraſes, wherein God is brought in, ſpeaking <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as putting on the bowels of a man,
+<note place="margin">
+                  <hi>Deut.</hi> 5.25. <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>zek.</hi> 33.11. <hi>Oſ.</hi> 11.</note> and teaching us ſo to do. It is ſaid of Chriſt, that he had compaſſion on the people, for that they were as ſheepe without a Shepherd;
+<note place="margin">
+                  <hi>Mat.</hi> 9.36.</note> and in another place ſpeaking to <hi>Hieruſalme,</hi> how compaſſionately doth he expreſſe him<g ref="char:EOLhyphen"/>ſelfe, <hi>O Ieruſalem, Ieruſalem.</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 23.37.</note> 
+               <hi>how would I have gathered
+<pb n="44" facs="tcp:126056:27"/>thee together, as a Hen gathereth her Chickens;</hi> no com<g ref="char:EOLhyphen"/>paſſion greater than that of the Hen to her Chickens: How did he in the foreſight of her miſeries approach<g ref="char:EOLhyphen"/>ing,
+<note place="margin">
+                  <hi>Luke</hi> 19.</note> weepe over her, and crie, <hi>O that thou hadſt known,</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 5.2.</note> 
+               <hi>&amp;c.</hi> The high Prieſt was therefore to be taken from among men, that he might have compaſſion on them that were ignorant and out of the way. Is there any object in the world that deſerves more pitie than a loſt Soule, in the ſnare of the Devill, bleſſing it ſelfe as if it were well, when it is poore, blinde, beggarly, and naked, and every houre lyable to an inſufferable, an eter<g ref="char:EOLhyphen"/>nall deſtruction.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, <hi>We muſt preach convincingly;</hi> Firſt, there muſt be evidence of reaſon convincing the underſtand<g ref="char:EOLhyphen"/>ing of that we would perſwade men to. Man is a rea<g ref="char:EOLhyphen"/>ſonable creature, not drawne hither and thither by a thunder and lightning of bluſtering termes, which at the utmoſt onely ſtarrle the affections for a time, but after<g ref="char:EOLhyphen"/>wards for want of a convicted judgement they return to their old temper;
+<note place="margin">
+                  <hi>Col.</hi> 2.2. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> This is that which is called, <hi>The full aſſurance of underſtanding.</hi>
+            </p>
+            <p n="2">2. There is alſo required a conviction of the conſci<g ref="char:EOLhyphen"/>ance, whereby we evidence to men, that <hi>they</hi> be guil<g ref="char:EOLhyphen"/>ty, convincing them that they are the men: That was it that vexed the Prieſts, that the Apoſtle taxed them in particular,
+<note place="margin">
+                  <hi>Act.</hi> 5.28.33.</note> as guilty of the blood of Chriſt, <hi>He intends to bring this mans blood upon us:</hi> The Jewes that ſtoned <hi>Steven,</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 1.35.</note> were cut to the heart, when he charged them in particular as <hi>ſtiffenecked and uncircumciſed in heart.</hi> Men will endure much ſo be it you let their ſince alone, or them in the practice of their ſins, but if they be apprehenſive that your reprooſes come home to
+<pb n="45" facs="tcp:126056:27"/>them, they then are ſtined and filled with wrath.
+<note place="margin">
+                  <hi>Luke</hi> 4.28. 1 <hi>Cor.</hi> 14.25.</note> When the Preacher is manifeſt in the conſcience of the hear<g ref="char:EOLhyphen"/>ers, then they conſeſſe that God is in him, they crie out,
+<note place="margin">1 <hi>King</hi> 22.8. <hi>Omnis actio fit per contractum.</hi>
+               </note> You prophecy evill to us. As the Philoſophers ſay, that <hi>all action is by touching,</hi> ſo all doctrine works by parti<g ref="char:EOLhyphen"/>cular application; he that delivers himſelf altogether in generalls, ſeldome workes upon the people:
+<note place="margin">
+                  <hi>Ab uſu doctrina ad ejus applica<g ref="char:EOLhyphen"/>tionem deſcenſus eſt quidam quaſi a ſpecie ad indi<g ref="char:EOLhyphen"/>viduu<g ref="char:cmbAbbrStroke">̄</g> tranſitus.</hi> Zeppar. de ha<g ref="char:EOLhyphen"/>bend. Concio.</note> It is the ſpreading of the Net (which is done by particular application) which takes the Fiſh; Alwayes provided that we muſt not decipher men by perſonall circum<g ref="char:EOLhyphen"/>ſtances or diſtinguiſhing Characters; this will take off the efficacie of our reproof, in that the reproved will queſtion the good affection of the reprover, as not ten<g ref="char:EOLhyphen"/>dring his good name, while he does that openly, which ſhould have been done ſecretly; only, if any mans ſinne, or a known circumſtance of his ſin do diſcover him, 'tis not the reprover. but the offender does diſcover him<g ref="char:EOLhyphen"/>ſelfe. Sinnes muſt not be paſſed over in ſilence which declare themſelves, becauſe men complaine that wee particularize.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, <hi>We muſt preach feelingly according to the na<g ref="char:EOLhyphen"/>ture of the Doctrine;</hi> we doe ſo when we preach as ſen<g ref="char:EOLhyphen"/>ſible in our own hearts of what we would have take im<g ref="char:EOLhyphen"/>preſſion upon another: The beſt way to ſpeake to the heart, is to ſpeak from the heart;
+<note place="margin">2 <hi>Cor.</hi> 2.4.</note> Saint <hi>Paul</hi> when he would beget in the <hi>Corinthians</hi> a godly ſorrow of heart, he writes unto them out of much affliction and anxiety of ſpirit, with many tears. He that will make men ſenſible of wrath and damnation, or make men ap<g ref="char:EOLhyphen"/>prehenſive of the greatneſſe of Gods love in Chriſt, muſt manifeſt the like affections in himſelfe: There
+<note n="*" place="margin">
+                  <hi>Sunt multi clamoſi repre<g ref="char:EOLhyphen"/>henſo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s, qui in vitia declami<g ref="char:EOLhyphen"/>tando, vel potius fu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>minando mi<g ref="char:EOLhyphen"/>rum zeli ardo<g ref="char:EOLhyphen"/>rem prae ſe ſe<g ref="char:EOLhyphen"/>runt. &amp;c.</hi> Calv: in loc.</note> are many (ſaith my Author) clamorous Preachers,
+<pb n="46" facs="tcp:126056:28"/>who declaiming, or rather thundering againſt other mens faults, carry a great ſhew of zeal, and in the meane while are very ſecure themſelves, as if they did onely, <hi>per luſum exercere guttur &amp; latera,</hi> ſportingly exerciſe their Throats and Sides: But a godly Paſtor muſt weep himſelfe, that he may ſtirre up compaſſion in others, and retain more ſorrow in himſelfe than he ſeekes to create in others.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fiftly, <hi>When we preach frequently taking all occaſions to diſpenſe the Word;</hi> the Apoſtle calls it, <hi>In ſeaſon, and out of ſeaſon.</hi> The peoples uncapableneſſe, their ſlow<g ref="char:EOLhyphen"/>neſſe to beleeve, their aptneſſe to be carried away with the torrent of the times, the many wayes whereby the Word may miſcarry; all theſe, beſides the important nature of the worke, as tending to bring men from the power of Satan unto God, from hell to heaven, call for our redoubled pains. How conſtant and aſſiduous are Merchants, Mariners, Husbandmen, in their atten<g ref="char:EOLhyphen"/>dance on their earthly affairs, which notwithſtanding they ordinarily find as they left them? ſhould not we be much more induſtrious in Soul-work, which we ſeldom or never return to it but we find it worſe than we left it? Of the Lords Watchmen it is ſaid, <hi>That they ſhall not hold their peace all the day nor all the night, Eſ.</hi> 62.6. of Chriſt it is ſaid, <hi>He was daily in the Temple teaching, Lu.</hi> 21.37. of the Apoſtles, <hi>That they were daily in the Temple, and from houſe to houſe preaching the Goſpel, Act.</hi> 5.42. The diligence of the Ancients, as
+<note n="a" place="margin">
+                  <hi>Chryſ. Hom.</hi> 3 <hi>in Gen. Hom.</hi> 10. <hi>in Gen. Hom</hi> 9. <hi>ad Pop. Antioch.</hi>
+               </note> 
+               <hi>Chryſoſt.</hi>
+               <note n="b" place="margin">
+                  <hi>Baſil. Hexem Hom</hi> 2. <hi>ad fi<g ref="char:EOLhyphen"/>nem. Hom.</hi> 7. <hi>Iam adveſperaſcit, &amp;c.</hi> (It ſeemes they preached in the after<g ref="char:EOLhyphen"/>noone.)</note> 
+               <hi>Baſil,</hi>
+               <note n="c" place="margin">
+                  <hi>Aug. in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oon. Tract.</hi> 9. <hi>Heſter<g ref="char:EOLhyphen"/>noenim die diſtulimus in hodiernum.</hi> Whence it ap<g ref="char:EOLhyphen"/>peares he preached daily. <hi>Vid. eti<g ref="char:EOLhyphen"/>am Tractat.</hi> 16.21.22. <hi>alibi.</hi>
+               </note> 
+               <hi>Auguſtin,</hi> the cuſtome of the Church whereof
+<note n="d" place="margin">
+                  <hi>Euſch de Praepar. Evang. l.</hi> 8. <hi>c.</hi> 2. <hi>
+                     <g ref="char:V">Ʋ</g>nus de ſenioribus legem recitat per to<g ref="char:EOLhyphen"/>tum diem ſeptimum,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>as. uſque ad veſper<g ref="char:EOLhyphen"/>tinum crepuſ<g ref="char:EOLhyphen"/>culum.</hi>
+               </note> 
+               <hi>Euſebius</hi> reports, ought to be as incitements unto us. If
+<note n="e" place="margin">
+                  <hi>Hooper</hi> B. of <hi>Gloc.</hi> in accon<g ref="char:EOLhyphen"/>feſſion of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aith, exhibited to K. <hi>Edw.</hi> 6.</note> fifteene. Maſſes in a day was not enough for the Popiſh Prieſts, ſhall one Sermon ſuffice us, ſaid learned <hi>Hooper.</hi> There<g ref="char:EOLhyphen"/>fore
+<pb n="47" facs="tcp:126056:28"/>in the morning ſow thy ſeed,
+<note place="margin">
+                  <hi>Eccleſ.</hi> 11.6.</note> and in the evening let not thy hand ceaſe, thou knoweſt not whether this or that ſhall proſper.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> Sixthly, We muſt preach <hi>gravely,</hi> ſo as to preſerve the honour of that God whoſe mouth wee are in preaching, of that Chriſt whoſe perſon we repreſent,
+<note place="margin">2 <hi>Cor.</hi> 5.</note> of the high nature of the things we treat about. Wee are to deale with men, and that in the preſence of God and his holy Angels, about the recovery of them out of their damnable condition by nature, in ſetting our of the infinite love of God in Chriſt, with all the ad<g ref="char:EOLhyphen"/>vantages that belong thereto, the ſoules ſalvation or deſtruction to all eternity: How ill doth any thing that is ludicrous tending to move laughter beſeeme diſ<g ref="char:EOLhyphen"/>courſes of ſo high a nature. All our care ſhould bee to preſerve the ſpirits of men in a ſerious temper, where<g ref="char:EOLhyphen"/>in they are fitteſt to be wrought upon:
+<note place="margin">Omnis riſus in Eccleſiâ eſt à diabolo.</note> All laughter in the Church is from the Devill ſaith <hi>Chryſoſtome:</hi> Jocular Stories are from this ground to be baniſhed from the Pulpit. A Miniſter muſt be an example to the people in all gravity,
+<note place="margin">
+                  <hi>Tit.</hi> 2.8.</note> this gravity muſt appeare as in our whole converſation, ſo ſpecially when we ſtand betwixt God and the people as his Embaſſadours.</p>
+            <p>And now having repreſented to you, my Reverend Bre<g ref="char:EOLhyphen"/>thren, the important and preſſing nature of your work, laid before you thoſe generall duties, by which you may be fitted and made ſucceſſefull in the work, ſet on thoſe duties by quickning motives; what remaines but that I commend you to God, and the Word of his Grace who alone muſt enable you for it, and without whom all is done will come to nothing. And for you, our Parliamentarie Worthies, you are (as things ſtand)
+<pb n="48" facs="tcp:126056:29"/>under God the breath of our noſtrils, the light of our eyes, as a naile faſtned (as yet) in a ſure place; if you goe on to doe the Lord's work with wiſdome and cou<g ref="char:EOLhyphen"/>rage, God will certainely goe along with you; if you refuſe or withdraw your ſelves (however our eyes ſhall be to the Lord, but) in the eye of man wee are but an undone Nation. The God of heaven who hath his way in the Seas, who alone faſhions the hearts of the chil<g ref="char:EOLhyphen"/>dren of men, raiſe and keep up your ſpirits, cloath you with Zeale, fit you for all encounters, make way for you through all difficulties: So ſhall our Religion, our Lawes, and Liberties, be preſerved to our ſelves, and tranſmitted to poſterity; and we have cauſe to praiſe God for you ſo long as the Sunne and the Moone endureth.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
